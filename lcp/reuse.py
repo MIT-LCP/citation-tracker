@@ -4,17 +4,6 @@ Utilities for tracking reuse of LCP resources
 
 from Bio import Entrez
 
-def helloworld():
-
-    a = ['h','l','o','o','l']
-    b = ['e','l',' w','r','d']
-    c = ''
-    
-    for i in zip(a,b):
-        c = c + i[0] + i[1]
-    
-    return c
-
 def search(query, email, db='pubmed', sort='relevance', retmax='20', 
             retmode='xml'):
     """
@@ -46,3 +35,50 @@ def fetch_details(id_list, email, db='pubmed', retmode='xml'):
     results = Entrez.read(handle)
     
     return results
+
+# Get the paper title
+def get_title(id, email):
+    
+    Entrez.email = email
+    handle = Entrez.efetch(db='pubmed', retmode='xml', id=id)
+    result = Entrez.read(handle)
+    article = result['PubmedArticle'][0]
+    citation = article['MedlineCitation']
+    """
+    citation.keys():
+    
+    [u'DateCompleted',
+     u'OtherID',
+     u'DateRevised',
+     u'MeshHeadingList',
+     u'OtherAbstract',
+     u'CommentsCorrectionsList',
+     u'CitationSubset',
+     u'KeywordList',
+     u'DateCreated',
+     u'SpaceFlightMission',
+     u'GeneralNote',
+     u'Article',
+     u'PMID',
+     u'MedlineJournalInfo']
+    """
+    
+    finalarticle = citation['Article']
+    """
+    finalarticle.keys():
+    [u'ArticleDate',
+     u'Pagination',
+     u'AuthorList',
+     u'Language',
+     u'PublicationTypeList',
+     u'Journal',
+     u'ArticleTitle',
+     u'ELocationID',
+     u'Abstract']
+    """
+    
+    title = finalarticle['ArticleTitle']
+    
+    
+    return title
+    

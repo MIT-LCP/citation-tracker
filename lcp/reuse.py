@@ -81,4 +81,41 @@ def get_title(id, email):
     
     
     return title
+
+class SearchResult(object):
+    def __init__(self, search_string=None, results=None, paper_ids=None, paper_titles=None, count=None):
+        self.search_string = search_string
+        self.results = results
+        self.paper_ids = paper_ids
+        self.paper_titles = paper_titles
+        self.count = count
+        
+def search_list(search_strings, email):
+    """
+    Search a list of search_strings.
+    Return a dictionary of SearchResult objects as values for the search_string keys
+    """
+    search_results = {}
+    # Dictionary of {k-v} = {paper ids - titles} for the set of IDs found in all search strings
+    all_paper_titles = []
+
+    for ss in search_strings:
+
+        # Overall results
+        results = search(ss, email)
+        ids = results['IdList']
+        sr = SearchResult(search_string = ss, results = results, paper_ids = ids, count = results['Count'])
+
+        # Add the results to the dictionary
+        search_results[ss] = sr
+        all_paper_titles += ids
+
+    all_paper_titles = set(all_paper_titles)
+    all_paper_titles = dict(zip(all_paper_titles, [get_title(t, email) for t in all_paper_titles]))
+
+    # Fill in the paper titles
+    for ss in search_strings:
+        search_results[ss].paper_titles = [paper_titles[id] for id in search_results[ss].paper_ids]
     
+    return search_results
+

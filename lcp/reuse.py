@@ -115,7 +115,7 @@ def search_list(search_strings, email):
 
     # Fill in the paper titles
     for ss in search_strings:
-        search_results[ss].paper_titles = [paper_titles[id] for id in search_results[ss].paper_ids]
+        search_results[ss].paper_titles = [all_paper_titles[id] for id in search_results[ss].paper_ids]
     
     return search_results
 

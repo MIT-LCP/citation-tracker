@@ -4,7 +4,7 @@ Utilities for tracking reuse of LCP resources
 
 from Bio import Entrez
 
-def search(query, email, db='pubmed', sort='relevance', retmax='20', 
+def search(query, email, db='pubmed', sort='relevance', retmax='9999', 
             retmode='xml'):
     """
     Search for relevant publications.

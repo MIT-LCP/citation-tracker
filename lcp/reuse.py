@@ -119,3 +119,16 @@ def search_list(search_strings, email):
     
     return search_results
 
+def showdiff(results_a, results_b):
+    
+    print('Query A: '+results_a.search_string+', '+results_a.count+'results')
+    print('Query B: '+results_b.search_string+', '+results_b.count+'results')
+    print('(A - B):')
+    display(set(results_a.paper_titles) - set(results_b.paper_titles))
+    print('(B - A):')
+    display(set(results_b.paper_titles) - set(results_a.paper_titles))
+    
+    print('\n')
+    
+    return
+

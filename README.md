@@ -5,4 +5,9 @@ The goal is to create a reusable tool for tracking use of LCP resources in resea
 
 
 
+## Python Requirements
+
+biopython http://biopython.org/
+stem (Tor interface. Requires installation and configuration of tor) http://stem.torproject.org/ 
+dryscrape (For js enabled queries. Requires additional software libraries. See github readme) https://github.com/niklasb/dryscrape
 

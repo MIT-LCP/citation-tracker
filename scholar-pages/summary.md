@@ -11,7 +11,6 @@
 # Conclusions
 
 
-
 1. The most stringent search case: (mimic-ii OR mimicii) AND (physionet) produces essentially no false positives.
 2. There **MUST be an AND case** to restrict the pure 'mimic' search strings. By themselves, they will generate many false positives such as http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047914. It's usually some biological specimen or molecular compound. mimic something. The importance is further emphasized when using the numbers instead of the i's. Aside from the biological specimens, without the additional restrictions, the article could just be using the word 'mimic' in the literal sense: to mimic or copy something.
 3. The restrictive keywords CANNOT include 'database'. Irrelevant articles with both 'mimic' and 'database' are too frequent.

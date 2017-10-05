@@ -1,0 +1,133 @@
+scoring model to predict outcome in critically ill cirrhotic patients with acute respiratory failure: comparison with meld scoring models and clif-sofa score
+prognostic value of red blood cell distribution width in acute pancreatitis patients admitted to intensive care units: an analysis of a publicly accessible clinical database mimic ii
+predicting hyperlactatemia in the mimic ii database
+n-gram support vector machines for scalable procedure and diagnosis classification, with applications to clinical free text data from the intensive care unit
+prediction of acute hypotensive episodes using neural network multi-models
+discriminative and distinct phenotyping by constrained tensor factorization
+standardizing clinical laboratory data for secondary use
+prediction of acute hypotensive episodes via sliding window and genetic algorithm
+hemodynamic instability prediction through continuous multiparameter monitoring in icu
+assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
+real-time prognosis of icu physiological data streams
+calcium supplementation improves clinical outcome in intensive care unit patients: a propensity score matched analysis of a large clinical database mimic-ii
+designing optimal mortality risk prediction scores that preserve clinical knowledge
+quick chronic liver failure-sequential organ failure assessment: an easy-to-use scoring model for predicting mortality risk in critically ill cirrhosis patients
+word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods
+predicting postoperative acute respiratory failure in critical care using nursing notes and physiological signals
+a web-based data visualization tool for the mimic-ii database
+blood oxygen saturation alarm level analysis during mechanical lung ventilation
+latent topic discovery of clinical concepts from hospital discharge summaries of a heterogeneous patient cohort
+a rule-based approach for the prediction of acute hypotensive episodes
+external phenome analysis enables a rational federated query strategy to detect changing rates of treatment-related complications associated with multiple myeloma
+comparison between invasive and non-invasive blood pressure in young, middle and old age
+learning multiple diagnosis codes for icu patients with local disease correlation mining
+classification of mean arterial pressure regimes in icu using a model-based support vector machine: acute hypotensive, critical and survival episodes
+automated de-identification of free-text medical records
+leveraging a critical care database selective serotonin reuptake inhibitor use prior to icu admission is associated with increased hospital mortality
+use of big data and machine learning for prediction of hypotensive events in high risk icu patients from the mimic ii mit database
+septic shock prediction for icu patients via coupled hmm walking on sequential contrast patterns
+mimic-iii, a freely accessible critical care database
+comparison of baseline investigations and hospital mortality among icu patients with heart failure between the public mimic-ii database and chinese pla general hospital
+association of morphologic variability with 6-month mortality in a general cohort of intensive care unit patients: results from the mimicii database
+classification based on compressive multivariate time series
+the annotation station: an open-source technology for annotating large biomedical databases
+robust algorithm to locate heart beats from multiple physiological waveforms by individual signal detector voting
+hypotension as a risk factor for acute kidney injury in icu patients
+estimation of missing values in clinical laboratory measurements of icu patients using a weighted k-nearest neighbors algorithm
+a computational approach to mortality prediction of alcohol use disorder inpatients
+lower mean corpuscular hemoglobin concentration is associated with poorer outcomes in intensive care unit admitted patients with acute myocardial infarction
+use of electronic health record data to evaluate the impact of race on 30-day mortality in patients admitted to the intensive care unit
+discharge recommendation based on a novel technique of homeostatic analysis
+heuristics to determine ventilation times of icu patients from the mimic-ii database
+large-scale methodological comparison of acute hypotensive episode forecasting using mimic2 physiological waveforms
+mortality prediction model of septic shock patients based on routinely recorded data
+optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
+a fast and memory-efficient algorithm for learning and retrieval of phenotypic dynamics in multivariate cohort time series
+fuzzy modeling to predict short and long-term mortality among patients with acute kidney injury
+predicting acute hypotensive episodes based on multi gp
+mortality prediction in intensive care units with the super icu learner algorithm (sicula): a population-based study
+using electronic health record collected clinical variables to predict medical intensive care unit mortality
+multimodeling for the prediction of patient readmissions in intensive care units
+fuzzy preprocessing of medical text annotations of intensive care units patients
+prediction of sepsis in the intensive care unit with minimal electronic health record data: a machine learning approach
+is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
+temporal phenome analysis of a large electronic health record cohort enables identification of hospital-acquired complications
+computer-assisted de-identification of free text in the mimic ii database
+fluid resuscitation dilemma in patients with congestive heart failure presenting with severe sepsis in intensive care unit: an analysis of a large clinical database mimic iii
+prediction of physiological subsystem failure and its impact in the prediction of patient mortality
+an investigation of patterns in hemodynamic data indicative of impending hypotension in intensive care
+perpetual and virtual patients for cardiorespiratory physiological studies
+early warnings of heart rate deterioration
+antipyretic therapy in critically ill patients with sepsis: an interaction with body temperature
+lower short- and long-term mortality associated with overweight and obesity in a large cohort study of adult intensive care unit patients
+matching data fragments with imperfect identifiers from disparate sources
+platelet-to-lymphocyte ratio a novel prognostic factor for prediction of 90-day outcomes in critically ill patients with diabetic ketoacidosis
+blood pressure analysis on icu patients receiving vasopressor therapy from the mimic ii database
+multiparameter intelligent monitoring in intensive care ii: a public-access intensive care unit database
+protective effects of rheumatoid arthritis in septic icu patients
+a methodology for prediction of acute hypotensive episodes in icu via a risk scoring model including analysis of st-segment variations
+wavelet based time series forecast with application to acute hypotensive episodes prediction
+predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
+prediction of acute hypotensive episodes by means of neural network multi-models
+using information theory to identify redundancy in common laboratory tests in the intensive care unit
+predicting respiratory instability in the icu
+prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
+adaptive online monitoring for icu patients by combining just-in-time learning and principal component analysis
+estimating cardiac output from arterial blood pressure waveforms: a critical evaluation using the mimic ii database
+ecg signal quality during arrhythmia and its application to false alarm reduction
+a novel continuous and noninvasive measurement for blood pressure based on photoplethysmography
+a computational approach to early sepsis detection
+reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform.
+predicting icu hemodynamic instability using continuous multiparameter trends
+icu pad project: application of modern computer technology in pediatric postoperative cardiac intensive care. pilot study
+diagnosis code assignment: models and evaluation metrics
+a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
+scalable predictive analysis in critically ill patients using a visual open data analysis platform
+overview of the share/clef ehealth evaluation lab 2013
+establishment and validation of gv-saps ii scoring system for non-diabetic critically ill patients
+an approach for prediction of acute hypotensive episodes via the hilbert-huang transform and multiple genetic programming classifier
+data mining using clinical physiology at discharge to predict icu readmissions
+a probabilistic model for early prediction of abnormal clinical events using vital sign correlations in home-based monitoring
+using demographic and time series physiological features to classify sepsis in the intensive care unit
+can cluster-boosted regression improve prediction of death and length of stay in the icu?
+efficient and sparse feature selection for biomedical text classification via the elastic net: application to icu risk stratification from nursing notes
+prediction using patient comparison vs. modeling: a case study for mortality prediction
+false ventricular tachycardia alarm suppression in the icu based on the discrete wavelet transform in the ecg signal
+large-scale physiological waveform retrieval via locality-sensitive hashing
+effect of antipyretic therapy on mortality in critically ill patients with sepsis receiving mechanical ventilation treatment
+necessity of laboratory blood tests in intensive care unit using data mining
+a temporal search engine for a massive multi-parameter clinical information database
+closing the data loop: an integrated open access analysis platform for the mimic database
+development of a novel score for the prediction of hospital mortality in patients with severe sepsis: the use of electronic healthcare records with lasso regression
+photoplethysmography-based method for automatic detection of premature ventricular contractions
+hemodynamic-impact-based prioritization of ventricular tachycardia alarms
+robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
+automatic premature ventricular contraction detection in photoplethysmographic signals
+predictive value of lactate in unselected critically ill patients: an analysis using fractional polynomials
+design and implementation of advanced bayesian networks with comparative probability
+on robust extraction of pulse transit time from multimodal pulsatile signals
+a data mining approach to reduce the false alarm rate of patient monitors
+mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
+high-performance detection and early prediction of septic shock for alcohol-use disorder patients
+improving the performance of continuous non-invasive estimation of blood pressure using ecg and ppg
+mortality prediction in septic shock patients: towards new personalized models in critical care
+customization of a severity of illness score using local electronic medical record data
+a physiological time series dynamics-based approach to patient monitoring and outcome prediction
+predicting acute hypotensive episode by using hybrid features and a neuro-fuzzy network
+an artificial intelligence tool to predict fluid requirement in the intensive care unit: a proof-of-concept study
+survival topic models for predicting outcomes for trauma patients
+predicting icu readmissions based on bedside medical text notes
+fuzzy risk stratification and risk assessment model for clinical monitoring in the icu
+prediction of mortality from respiratory distress among long-term mechanically ventilated patients
+errors, omissions, and outliers in hourly vital signs measurements in intensive care
+phenotyping hypotensive patients in critical care using hospital discharge summaries
+predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
+open access mimic-ii database for intensive care research
+predictive value of ionized calcium in critically iii patients: an analysis of a large clinical database mimic ii
+a decision support system for icu readmissions prevention
+the use of data mining techniques to predict mortality and length of stay in an icu
+detection of acute hypotensive episodes via empirical mode decomposition and genetic programming
+reducing false arrhythmia alarm rates using robust heart rate estimation and cost-sensitive support vector machines
+estimating patient's health state using latent structure inferred from clinical time series and text
+predicting complications in critical care using heterogeneous clinical data
+accessing the public mimic-ii intensive care relational database for clinical research

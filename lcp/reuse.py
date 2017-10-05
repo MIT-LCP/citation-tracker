@@ -86,7 +86,11 @@ def get_title(id, email):
     
     title = finalarticle['ArticleTitle']
     
+    # make them lower case and remove fullstops to make comparable with other
+    # search results
     title = title.lower()
+    if title.endswith('.'):
+        title = title[:-1]
     return title
 
 class SearchResult(object):

@@ -1,7 +1,7 @@
 a web-based data visualization tool for the mimic-ii database
 reproducing a prospective clinical study as a computational retrospective study in mimic-ii
 mimic-iii, a freely accessible critical care database
-[clinical data mining by exploring public mimic-ii intensive care database]
+clinical data mining by exploring public mimic-ii intensive care database
 accessing the public mimic-ii intensive care relational database for clinical research
 open-access mimic-ii database for intensive care research
 heuristics to determine ventilation times of icu patients from the mimic-ii database
@@ -75,7 +75,7 @@ wavelet based time series forecast with application to acute hypotensive episode
 robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
 real-time prognosis of icu physiological data streams
 a study of neural word embeddings for named entity recognition in clinical text
-[bilateral neuroretinitis as an ocular manifestation of cat scratch disease in 9-year-old boy. a case report]
+bilateral neuroretinitis as an ocular manifestation of cat scratch disease in 9-year-old boy. a case report
 antipyretic therapy in critically ill patients with sepsis: an interaction with body temperature
 predicting respiratory instability in the icu
 temporal phenome analysis of a large electronic health record cohort enables identification of hospital-acquired complications
@@ -88,7 +88,7 @@ characterization of long-term elution of platinum from carboplatin-impregnated c
 a computational approach to mortality prediction of alcohol use disorder inpatients
 high-performance detection and early prediction of septic shock for alcohol-use disorder patients
 investigation of relationship between 2,3-butanediol toxicity and production during growth of paenibacillus polymyxa
-[role of mirna-210 in hypoxic-ischemic brain edema in neonatal rats]
+role of mirna-210 in hypoxic-ischemic brain edema in neonatal rats
 efficient docosahexaenoic acid uptake by the brain from a structured phospholipid
 phenome based analysis as a means for discovering context dependent clinical reference ranges
 dual chemical modification of a polytheonamide mimic: rational design and synthesis of ion-channel-forming 48-mer peptides with potent cytotoxicity
@@ -116,10 +116,10 @@ photoplethysmography-based method for automatic detection of premature ventricul
 using information theory to identify redundancy in common laboratory tests in the intensive care unit
 robust algorithm to locate heart beats from multiple physiological waveforms by individual signal detector voting
 designing optimal mortality risk prediction scores that preserve clinical knowledge
-[interference detection and signal quality assessment of pulse signals]
+interference detection and signal quality assessment of pulse signals
 structural permutation of potent cytotoxin, polytheonamide b: discovery of cytotoxic peptide with altered activity
 a physiological time series dynamics-based approach to patient monitoring and outcome prediction
-[acute hypotensive episodes prediction based on non-linear chaotic analysis]
+acute hypotensive episodes prediction based on non-linear chaotic analysis
 fuzzy modeling to predict severely depressed left ventricular ejection fraction following admission to the intensive care unit using clinical physiology
 reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform
 risk prediction of one-year mortality in patients with cardiac arrhythmias using random survival forest

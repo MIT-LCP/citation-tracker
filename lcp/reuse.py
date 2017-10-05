@@ -91,6 +91,11 @@ def get_title(id, email):
     title = title.lower()
     if title.endswith('.'):
         title = title[:-1]
+
+    # Some results get square brackets. Error?
+    while '[' in title or ']' in title:
+        title = title.replace('[', '')
+        title = title.replace(']', '')
     return title
 
 class SearchResult(object):

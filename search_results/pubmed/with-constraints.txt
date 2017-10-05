@@ -6,7 +6,7 @@ heuristics to determine ventilation times of icu patients from the mimic-ii data
 accessing the public mimic-ii intensive care relational database for clinical research
 leveraging a critical care database: selective serotonin reuptake inhibitor use prior to icu admission is associated with increased hospital mortality
 adaptive online monitoring for icu patients by combining just-in-time learning and principal component analysis
-[clinical data mining by exploring public mimic-ii intensive care database]
+clinical data mining by exploring public mimic-ii intensive care database
 n-gram support vector machines for scalable procedure and diagnosis classification, with applications to clinical free text data from the intensive care unit
 predictive value of ionized calcium in critically ill patients: an analysis of a large clinical database mimic ii
 using demographic and time series physiological features to classify sepsis in the intensive care unit
@@ -42,7 +42,7 @@ risk stratification of icu patients using topic models inferred from unstructure
 platelet-to-lymphocyte ratio: a novel prognostic factor for prediction of 90-day outcomes in critically ill patients with diabetic ketoacidosis
 prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
 predicting icu hemodynamic instability using continuous multiparameter trends
-[acute hypotensive episodes prediction based on non-linear chaotic analysis]
+acute hypotensive episodes prediction based on non-linear chaotic analysis
 is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
 prediction of mortality from respiratory distress among long-term mechanically ventilated patients
 early warnings of heart rate deterioration

@@ -86,7 +86,7 @@ def get_title(id, email):
     
     title = finalarticle['ArticleTitle']
     
-    
+    title = title.lower()
     return title
 
 class SearchResult(object):

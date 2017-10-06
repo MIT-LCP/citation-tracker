@@ -1,71 +1,283 @@
-protective effects of rheumatoid arthritis in septic icu patients
-blood oxygen saturation alarm level analysis during mechanical lung ventilation
-matching data fragments with imperfect identifiers from disparate sources
-icuarm-an icu clinical decision support system using association rule mining
-on robust extraction of pulse transit time from multimodal pulsatile signals
-multimodeling for the prediction of patient readmissions in intensive care units
-a physiological time series dynamics-based approach to patient monitoring and outcome prediction
-a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
-assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
-prediction of mortality from respiratory distress among long-term mechanically ventilated patients
-estimation of missing values in clinical laboratory measurements of icu patients using a weighted k-nearest neighbors algorithm
-predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
-false alarm suppression in early prediction of cardiac arrhythmia
-fuzzy preprocessing of medical text annotations of intensive care units patients
-photoplethysmography-based method for automatic detection of premature ventricular contractions
-optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
-a temporal search engine for a massive multi-parameter clinical information database
-fuzzy modeling to predict short and long-term mortality among patients with acute kidney injury
-mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
-predicting icu hemodynamic instability using continuous multiparameter trends
-latent topic discovery of clinical concepts from hospital discharge summaries of a heterogeneous patient cohort
-combination of static and temporal data analysis to predict mortality and readmission in the intensive care
-detection of acute hypotensive episodes via empirical mode decomposition and genetic programming
-sparse representation of photoplethysmogram using k-svd for cuffless estimation of arterial blood pressure
-predicting respiratory instability in the icu
-prediction of physiological subsystem failure and its impact in the prediction of patient mortality
-early warnings of heart rate deterioration
-the annotation station: an open-source technology for annotating large biomedical databases
 open-access mimic-ii database for intensive care research
-large-scale physiological waveform retrieval via locality-sensitive hashing
-a data mining approach to reduce the false alarm rate of patient monitors
-is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
-phenotyping hypotensive patients in critical care using hospital discharge summaries
-closing the data loop: an integrated open access analysis platform for the mimic database
-hypotension as a risk factor for acute kidney injury in icu patients
-using demographic and time series physiological features to classify sepsis in the intensive care unit
-a system for mining temporal physiological data streams for advanced prognostic decision support
-the obesity paradox in icu patients
-the use of data mining techniques to predict mortality and length of stay in an icu
+adaptive cancellation of motion artifact in wearable biosensors
+a semi-supervised approach for temporal information extraction from clinical text
 predicting postoperative acute respiratory failure in critical care using nursing notes and physiological signals
-mortality prediction in septic shock patients: towards new personalized models in critical care
-improving the performance of continuous non-invasive estimation of blood pressure using ecg and ppg
-predicting complications in critical care using heterogeneous clinical data
-a fast and memory-efficient algorithm for learning and retrieval of phenotypic dynamics in multivariate cohort time series
+computers in cardiology / physionet challenge 2009: predicting acute hypotensive episodes
+computational intelligence methods for processing misaligned, unevenly sampled time series containing missing data
+automated classification of coronary atherosclerosis using single lead ecg
+network analysis of heart beat intervals using horizontal visibility graphs
+empirical modelling for dynamic visualization of icu patient data streams
+detection of acute hypotensive episodes via empirical mode decomposition and genetic programming
+on how to extract breathing rate from ppg signal using wearable devices
+model selection for the pulse decomposition analysis of fingertip photoplethysmograms
+stochastic modeling of the ppg signal: a synthesis-by-analysis approach with applications
+suppression of intensive care unit false alarms based on the arterial blood pressure signal
+a robust approach toward recognizing valid arterial-blood-pressure pulses
+predicting occurrences of acute hypoglycemia during insulin therapy in the intensive care unit
+review of big data tools for healthcare system with case study on patient database storage methodology
+abp peak detection using energy analysis technique
+estimation of the patient monitor alarm rate for a quantitative analysis of new alarm settings
+false alarm suppression in early prediction of cardiac arrhythmia
+early warnings of heart rate deterioration
+a method for prediction of acute hypotensive episodes in icu via pso and k-means
+the use of data mining techniques to predict mortality and length of stay in an icu
+business process reengineering of the workflows in intensive care unit supported with a tablet pc based automation system
+prediction of physiological subsystem failure and its impact in the prediction of patient mortality
+surf: subject-adaptive unsupervised ecg signal compression for wearable fitness monitors
+closing the data loop: an integrated open access analysis platform for the mimic database
 wavelet based time series forecast with application to acute hypotensive episodes prediction
-predicting hyperlactatemia in the mimic ii database
-automatic premature ventricular contraction detection in photoplethysmographic signals
-large-scale methodological comparison of acute hypotensive episode forecasting using mimic2 physiological waveforms
-robust detection of heart beats in multimodal data: the physionet/computing in cardiology challenge 2014
-prediction of acute hypotensive episodes using neural network multi-models
-real-time prognosis of icu physiological data streams
-robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
-coronary artery disease detection using photoplethysmography
-necessity of laboratory blood tests in intensive care unit using data mining
-heuristics to determine ventilation times of icu patients from the mimic-ii database
-a decision support system for icu readmissions prevention
-estimating cardiac output from arterial blood pressurewaveforms: a critical evaluation using the mimic ii database
-hypotension risk prediction via sequential contrast patterns of icu blood pressure
-an open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system
-can cluster-boosted regression improve prediction of death and length of stay in the icu?
-computer-assisted de-identification of free text in the mimic ii database
-hemodynamic-impact-based prioritization of ventricular tachycardia alarms
-predicting icu readmissions based on bedside medical text notes
-survival topic models for predicting outcomes for trauma patients
-predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
-prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
-reducing false asystole alarms in intensive care
-estimating patient's health state using latent structure inferred from clinical time series and text
-a rule-based approach for the prediction of acute hypotensive episodes
-ecg signal quality during arrhythmia and its application to false alarm reduction
+reducing false arrhythmia alarms of patient monitoring systems in intensive care units
+data transformation and migration in polystores
+online scheduling and interference alleviation for low-latency, high-throughput processing of data streams
 prediction using patient comparison vs. modeling: a case study for mortality prediction
+ecg analysis in the time-frequency domain
+is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
+predicting icu hemodynamic instability using continuous multiparameter trends
+patient flow prediction via discriminative learning of mutually-correcting processes (extended abstract)
+the annotation station: an open-source technology for annotating large biomedical databases
+prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
+incremental support vector machines for monitoring systems in intensive care unit
+blood oxygen saturation alarm level analysis during mechanical lung ventilation
+automatic premature ventricular contraction detection in photoplethysmographic signals
+multimodeling for the prediction of patient readmissions in intensive care units
+integrating data, models, and reasoning in critical care
+reconstruction of ecg signals in presence of corruption
+a decision support system for [::icu::] readmissions prevention
+de-identification algorithm for free-text nursing notes
+threshold tuning-based wearable sensor fault detection for reliable medical monitoring using bayesian network model
+toward lightweight biometric signal processing for wearable devices
+learning from different perspectives: robust cardiac arrest prediction via temporal transfer learning
+lossless compression technique for real-time photoplethysmographic measurements
+ann validation system for icu neonatal data
+predicting respiratory instability in the icu
+takagi-sugeno fuzzy modeling using mixed fuzzy clustering
+heuristics to determine ventilation times of icu patients from the mimic-ii database
+an intelligent hybrid hemodynamic data monitoring for post-cardiac surgical patients
+prediction and imputation in irregularly sampled clinical time series data using hierarchical linear dynamical models
+ubiquitous patient monitoring and smart alert generation in an intensive care unit supported by low cost tablet pc based automation system powered through open source software and hardware platforms
+multivariable analysis of sedation, activity, and agitation in critically ill patients using the riker scale ecg, blood pressure, and respiratory rate
+a multimodal approach to reduce false arrhythmia alarms in the [::intensive::] [::care::] unit
+rate-distortion classification for self-tuning iot networks
+predicting ards using the mimic ii physiological database
+heart rate variability discovery: algorithm for detection of heart rate from noisy, multimodal recordings
+improving the performance of multi-parameter patient monitors using feature mapping and decision fusion
+the performance of neural network in the estimation of cardiac output using arterial blood pressure waveforms
+infographic visual analytics based on empirical modelling for icu patient data streams
+combination of static and temporal data analysis to predict mortality and readmission in the intensive care
+segmentation of 24-hour cardiovascular activity using ecg-based sleep/sedation and noise metrics
+implantbench: characterizing and projecting representative benchmarks for emerging bioimplantable computing
+d4m: bringing associative arrays to database engines
+cross-engine query execution in federated database systems
+phenotyping hypotensive patients in critical care using hospital discharge summaries
+prediction of acute hypotension episodes using logistic regression model and support vector machine: a comparative study
+discovering shared dynamics in physiological signals: application to patient monitoring in icu
+predicting short-term icu outcomes using a sequential contrast motif based classification framework
+robust estimation of respiratory rate via ecg- and ppg-derived respiratory quality indices
+improving the performance of continuous non-invasive estimation of blood pressure using ecg and ppg
+classification with imbalance: a similarity-based method for predicting respiratory failure
+a sensor network query processing system for healthcare data acquisition in dr. m
+machine learning and decision support in critical care
+on the use of the incremental support vector machines for monitoring systems in intensive care unit
+the bigdawg polystore system and architecture
+predicting icu readmissions based on bedside medical text notes
+data fusion for predicting ards using the mimic ii physiological database
+classification of ecg signals of normal and abnormal subjects using common spatial pattern
+hidden semi-markov model-based heartbeat detection using multimodal data and signal quality indices
+a multiple-input multiple-output system for modeling the cardiac dynamics
+heterogeneous postsurgical data analytics for predictive modeling of mortality risks in [::intensive::] [::care::] units
+survey of clinical data mining applications on big data in health informatics
+fuzzy preprocessing of medical text annotations of intensive care units patients
+a data mining approach to reduce the false alarm rate of patient monitors
+efficient execution methods of pivoting for bulk extraction of entity-attribute-value-modeled data
+signal quality estimation with multichannel adaptive filtering in intensive care settings
+predictive monitoring for early detection of subacute potentially catastrophic illnesses in critical care
+detecting dynamical changes in vital signs using switching kalman filter
+malicious behavior monitoring of embedded medical devices
+advanced emd method using variance characterization for ppg with motion artifact
+building artificial life for play
+physionet: physiologic signals, time series and related open source software for basic, clinical, and applied research
+a supervised learning approach for the robust detection of heart beat in plethysmographic data
+a rule-based temporal analysis method for online health analytics and its application for real-time detection of neonatal spells
+predicting hyperlactatemia in the mimic ii database
+bdcam: big data for context-aware monitoring - a personalized knowledge discovery framework for assisted healthcare
+predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
+a pca based feature reduction in intracranial hypertension analysis
+patient prognosis from vital sign time series: combining convolutional neural networks with a dynamical systems approach
+invited speakers
+optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
+an early respiratory distress detection method with markov models
+using the blood pressure waveform to reduce critical false ecg alarms
+a novel smartphone camera-led communication for clinical signal transmission in mhealth-rehabilitation system
+a fault-tolerant hardware architecture for robust wearable heart rate monitoring
+scalable joint models for reliable uncertainty-aware event prediction
+collision frequency locality-sensitive hashing for prediction of critical events
+cuffless blood pressure estimation algorithms for continuous health-care monitoring
+a machine learning approach to false alarm detection for critical arrhythmia alarms
+suppress false arrhythmia alarms of icu monitors using heart rate estimation based on combined arterial blood pressure and ecg analysis
+hypotension risk prediction via sequential contrast patterns of icu blood pressure
+explicu: a web-based visualization and predictive modeling toolkit for mortality in intensive care patients
+mortality prediction of icu patients using lab test data by feature vector compaction & classification
+prediction of acute hypotensive episodes using neural network multi-models
+classification of photoplethysmogram signal using self organizing map
+hemodynamic-impact-based prioritization of ventricular tachycardia alarms
+the physionet/computing in cardiology challenge 2010: mind the gap
+can cluster-boosted regression improve prediction of death and length of stay in the icu?
+reducing false asystole alarms in intensive care
+generalized precursor pattern discovery for biomedical signals
+evaluation of monitoring cardiac output by long time interval analysis of a radial arterial blood pressure waveform using the mimic ii database
+parametric model between pulse transit time and systolic and diastolic blood pressures for non-invasive blood pressure estimation
+detection of new drug indications from electronic medical records
+open questions on unified approach for calibration of oscillometric blood pressure measurement devices
+sparse representation of photoplethysmogram using k-svd for cuffless estimation of arterial blood pressure
+primary study for detection of arterial blood pressure waveform components
+exploring missing data prediction in medical monitoring: a performance analysis approach
+on robust extraction of pulse transit time from multimodal pulsatile signals
+assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
+robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
+fuzzy modeling to predict short and long-term mortality among patients with acute kidney injury
+estimating cardiac output from arterial blood pressurewaveforms: a critical evaluation using the mimic ii database
+finding relevant cases in large databases of signals, time series, and clinical data
+increasing the dynamic range of a pulse oximeter using heart rate characteristics
+predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
+sparse hierarchical tucker factorization and its application to healthcare
+identification of ecg signal pattern changes to reduce the incidence of ventricular tachycardia false alarms
+hypotension as a risk factor for acute kidney injury in icu patients
+a probabilistic model for early prediction of abnormal clinical events using vital sign correlations in home-based monitoring
+practical aspects of manufacturing millimeter wave products in a “real world” environment
+detecting malicious data injections in event detection wireless sensor networks
+a system for mining temporal physiological data streams for advanced prognostic decision support
+consensus motifs as adaptive and efficient predictors for acute hypotensive episodes
+fuzzy modeling based on mixed fuzzy clustering for health care applications
+study on predicting method for acute hypotensive episodes based on wavelet transform and support vector machine
+feature selection and oversampling in analysis of clinical data for extubation readiness in extreme preterm infants
+leveraging mobile cloud for telemedicine: a performance study in medical monitoring
+prediction of mortality in patients with sepsis using detrended fluctuation analysis of heart rate variability
+integrating real-time and batch processing in a polystore
+multivariate temporal symptomatic characterization of cardiac arrest
+stratified locality-sensitive hashing for accelerated physiological time series retrieval
+protective effects of rheumatoid arthritis in septic icu patients
+prediction of mean arterial blood pressure with linear stochastic models
+acceleration plethysmogram based biometric identification
+–omic and electronic health record big data analytics for precision medicine
+introducing uws - a fuzzy based word similarity function with good discrimination capability: preliminary results
+computer-assisted de-identification of free text in the mimic ii database
+machine learning-based clinical decision support system for early diagnosis from real-time physiological data
+towards enhancing the performance of multi-parameter patient monitors
+mixed fuzzy clustering for misaligned time series
+photoplethysmograph quality estimation through multichannel filtering
+cardiac output monitoring in intensive care patients by radial artery pressure waveform analysis
+the bigdawg monitoring framework
+comparison of different signal processing methods for reducing artifacts from photoplethysmograph signal
+icuarm-an icu clinical decision support system using association rule mining
+mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
+short-term prediction of low kidney function in icu patients
+using demographic and time series physiological features to classify sepsis in the intensive care unit
+secondary peak detection of ppg signal for continuous cuffless arterial blood pressure measurement
+analysis of locality-sensitive hashing for fast critical event prediction on physiological time series
+predictive models for severe sepsis in adult icu patients
+the effect of signal quality on six cardiac output estimators
+a visualization of evolving clinical sentiment using vector representations of clinical notes
+ensemble fuzzy classifiers design using weighted aggregation criteria
+estimation of missing values in clinical laboratory measurements of icu patients using a weighted k-nearest neighbors algorithm
+predicting hypoglycemia in diabetic patients using data mining techniques
+approximate temporal functional dependencies on clinical data
+predicting laboratory testing in intensive care using fuzzy and neural modeling
+discovering quantitative temporal functional dependencies on clinical data
+photoplethysmography-based method for automatic detection of premature ventricular contractions
+a 54-μw fast-settling arterial pulse wave sensor for wrist watch type system
+the progress of research on prediction model for acute hypotensive episodes
+automated feature learning: mining unstructured data for useful abstractions
+large-scale methodological comparison of acute hypotensive episode forecasting using mimic2 physiological waveforms
+a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
+data preprocessing and mortality prediction: the physionet/cinc 2012 challenge revisited
+designing reliable cohorts of cardiac patients across mimic and eicu
+necessity of laboratory blood tests in intensive care unit using data mining
+similarity-based searching in multi-parameter time series databases
+application of empirical mode decomposition in prediction of acute hypotension episodes
+the obesity paradox in icu patients
+robust detection of heart beats in multimodal data: the physionet/computing in cardiology challenge 2014
+localized supervised metric learning on temporal physiological data
+optimization of sepsis risk assessment for ward patients
+frequency tree clustering for icu mortality analytics using graph databases
+uncovering clinical significance of vital sign dynamics in critical care
+denoising and baseline correction of ecg signals using sparse representation
+incremental real time support vector machines for health monitoring system
+waveformecg: a platform for visualizing, annotating, and analyzing ecg data
+text classification-based automatic recruitment of patients for clinical trials: a silver standards-based case study
+multi-view non-negative tensor factorization as relation learning in healthcare data
+sequential pattern mining of electronic healthcare reimbursement claims: experiences and challenges in uncovering how patients are treated by physicians
+an analysis of the errors in recorded heart rate and blood pressure in the icu using a complex set of signal quality metrics
+an accurate mortality prediction method based on decision-level fusion of existing icu scoring systems
+cardiac condition monitoring through photoplethysmogram signal denoising using wearables: can we detect coronary artery disease with higher performance efficacy?
+mortality prediction in septic shock patients: towards new personalized models in critical care
+cardiovascular risk and status assessment
+personalized mortality prediction for the critically ill using a patient similarity metric and bagging
+coefficient-free blood pressure estimation based on pulse transit time–cuff pressure dependence
+estimating patient's health state using latent structure inferred from clinical time series and text
+multiscale entropy and poincare plot-based analysis of pulse rate variability and heart rate variability of icu patients
+a rule-based approach for the prediction of acute hypotensive episodes
+latent topic discovery of clinical concepts from hospital discharge summaries of a heterogeneous patient cohort
+a model-based machine learning approach to probing autonomic regulation from nonstationary vital-signs time series
+suppression of false arrhythmia alarms using ecg and pulsatile waveforms
+analysis of the clinical utility of algorithms in the 2009 physionet/computing in cardiology challenge for the prediction of acute hypotensive episodes
+cuff-less high-accuracy calibration-free blood pressure estimation using pulse transit time
+supervised learning techniques for analysis of neonatal data
+determining levels of arousal using electrocardiography: a study of hrv during transcranial magnetic stimulation
+the effects of deep network topology on mortality prediction
+real-time prognosis of icu physiological data streams
+a biosignal analysis system applied for developing an algorithm predicting critical situations of high risk cardiac patients by hemodynamic monitoring
+tracking progression of patient state of health in critical care using inferred shared dynamics in physiological time series
+model-based data integration in clinical environments
+ecg signal quality during arrhythmia and its application to false alarm reduction
+data mining and modeling to predict the necessity of vasopressors for icu patients
+matching data fragments with imperfect identifiers from disparate sources
+cuff-less ppg based continuous blood pressure monitoring — a smartphone based approach
+toward a robust estimation of respiratory rate from pulse oximeters
+implementation of artifact detection in critical care: a methodological review
+learning score systems for patient mortality prediction in intensive care units via orthogonal matching pursuit
+a physiological time series dynamics-based approach to patient monitoring and outcome prediction
+model-based estimation of the cardiac output in exercise scenario
+robust heart beat detection from photoplethysmography interlaced with motion artifacts based on empirical mode decomposition
+data analytics in ubiquitous sensor-based health information systems
+the learning intelligent distribution agent (lida) and medical agent x (max): computational intelligence for medical diagnosis
+clinico-genomic data analytics for precision diagnosis and disease management
+cycle-averaged models of cardiovascular dynamics
+predicting complications in critical care using heterogeneous clinical data
+bayesian networks for cardiovascular monitoring
+heuristic approaches for generating local process models through log projections
+large-scale physiological waveform retrieval via locality-sensitive hashing
+a novel algorithm for reducing false arrhythmia alarms in intensive care units
+vital sign normalisation for improving performance of multi-parameter patient monitors
+clinical named entity recognition: challenges and opportunities
+life-threatening arrhythmia verification in icu patients using the joint cardiovascular dynamical model and a bayesian filter
+an open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system
+a temporal search engine for a massive multi-parameter clinical information database
+notice of violation of ieee publication principles
+predicting the occurrence of acute hypotensive episodes: the physionet challenge
+survival topic models for predicting outcomes for trauma patients
+robust control design for automatic regulation of blood pressure
+simultaneous prognosis and exploratory analysis of multiple chronic conditions using clinical notes
+highly personalized health services using cloud and sensors
+application-specific fine tuning of multi-parameter patient monitors
+risk prediction for heart failure incidence within 1-year using clinical and laboratory factors
+a research infrastructure for real-time evaluation of predictive algorithms for intensive care units
+finding needles in a haystack: reducing false alarm rate using telemedicine mobile cloud
+mining the clinical narrative: all text are not equal
+computing network-based features from physiological time series: application to sepsis detection
+prediction of mortality from respiratory distress among long-term mechanically ventilated patients
+an algorithm for real-time pulse waveform segmentation and artifact detection in photoplethysmograms
+pulse spectral analysis from intensive care unit patients
+an informatics architecture for the virtual pediatric intensive care unit
+binary fish school search applied to feature selection: application to icu readmissions
+multi-probe random projection clustering to secure very large distributed datasets
+modelling intracranial pressure with noninvasive physiological measures
+iterative unified clustering in big data
+a mortality study for icu patients using bursty medical events
+fuzzy modeling to predict administration of vasopressors in intensive care unit patients
+continuous cardiac output and left atrial pressure monitoring by pulmonary artery pressure waveform analysis
+respiration signal extraction from photoplethysmogram using pulse wave amplitude variation
+boosting the battery life of wearables for health monitoring through the compression of biosignals
+hemodynamic monitoring using switching autoregressive dynamics of multivariate vital sign time series
+a fast and memory-efficient algorithm for learning and retrieval of phenotypic dynamics in multivariate cohort time series
+lightweight lossy compression of biometric patterns via denoising autoencoders
+coronary artery disease detection using photoplethysmography

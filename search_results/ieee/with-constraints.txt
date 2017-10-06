@@ -1,0 +1,71 @@
+protective effects of rheumatoid arthritis in septic icu patients
+blood oxygen saturation alarm level analysis during mechanical lung ventilation
+matching data fragments with imperfect identifiers from disparate sources
+icuarm-an icu clinical decision support system using association rule mining
+on robust extraction of pulse transit time from multimodal pulsatile signals
+multimodeling for the prediction of patient readmissions in intensive care units
+a physiological time series dynamics-based approach to patient monitoring and outcome prediction
+a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
+assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
+prediction of mortality from respiratory distress among long-term mechanically ventilated patients
+estimation of missing values in clinical laboratory measurements of icu patients using a weighted k-nearest neighbors algorithm
+predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
+false alarm suppression in early prediction of cardiac arrhythmia
+fuzzy preprocessing of medical text annotations of intensive care units patients
+photoplethysmography-based method for automatic detection of premature ventricular contractions
+optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
+a temporal search engine for a massive multi-parameter clinical information database
+fuzzy modeling to predict short and long-term mortality among patients with acute kidney injury
+mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
+predicting icu hemodynamic instability using continuous multiparameter trends
+latent topic discovery of clinical concepts from hospital discharge summaries of a heterogeneous patient cohort
+combination of static and temporal data analysis to predict mortality and readmission in the intensive care
+detection of acute hypotensive episodes via empirical mode decomposition and genetic programming
+sparse representation of photoplethysmogram using k-svd for cuffless estimation of arterial blood pressure
+predicting respiratory instability in the icu
+prediction of physiological subsystem failure and its impact in the prediction of patient mortality
+early warnings of heart rate deterioration
+the annotation station: an open-source technology for annotating large biomedical databases
+open-access mimic-ii database for intensive care research
+large-scale physiological waveform retrieval via locality-sensitive hashing
+a data mining approach to reduce the false alarm rate of patient monitors
+is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
+phenotyping hypotensive patients in critical care using hospital discharge summaries
+closing the data loop: an integrated open access analysis platform for the mimic database
+hypotension as a risk factor for acute kidney injury in icu patients
+using demographic and time series physiological features to classify sepsis in the intensive care unit
+a system for mining temporal physiological data streams for advanced prognostic decision support
+the obesity paradox in icu patients
+the use of data mining techniques to predict mortality and length of stay in an icu
+predicting postoperative acute respiratory failure in critical care using nursing notes and physiological signals
+mortality prediction in septic shock patients: towards new personalized models in critical care
+improving the performance of continuous non-invasive estimation of blood pressure using ecg and ppg
+predicting complications in critical care using heterogeneous clinical data
+a fast and memory-efficient algorithm for learning and retrieval of phenotypic dynamics in multivariate cohort time series
+wavelet based time series forecast with application to acute hypotensive episodes prediction
+predicting hyperlactatemia in the mimic ii database
+automatic premature ventricular contraction detection in photoplethysmographic signals
+large-scale methodological comparison of acute hypotensive episode forecasting using mimic2 physiological waveforms
+robust detection of heart beats in multimodal data: the physionet/computing in cardiology challenge 2014
+prediction of acute hypotensive episodes using neural network multi-models
+real-time prognosis of icu physiological data streams
+robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
+coronary artery disease detection using photoplethysmography
+necessity of laboratory blood tests in intensive care unit using data mining
+heuristics to determine ventilation times of icu patients from the mimic-ii database
+a decision support system for icu readmissions prevention
+estimating cardiac output from arterial blood pressurewaveforms: a critical evaluation using the mimic ii database
+hypotension risk prediction via sequential contrast patterns of icu blood pressure
+an open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system
+can cluster-boosted regression improve prediction of death and length of stay in the icu?
+computer-assisted de-identification of free text in the mimic ii database
+hemodynamic-impact-based prioritization of ventricular tachycardia alarms
+predicting icu readmissions based on bedside medical text notes
+survival topic models for predicting outcomes for trauma patients
+predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
+prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
+reducing false asystole alarms in intensive care
+estimating patient's health state using latent structure inferred from clinical time series and text
+a rule-based approach for the prediction of acute hypotensive episodes
+ecg signal quality during arrhythmia and its application to false alarm reduction
+prediction using patient comparison vs. modeling: a case study for mortality prediction

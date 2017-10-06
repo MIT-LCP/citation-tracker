@@ -2,7 +2,9 @@
 
 The goal is to create a reusable tool for tracking use of LCP resources in research papers. e.g. So we can answer the questions, "which research papers were carried out with the use of MIMIC" and "which research papers were carried out with the use of the eICU Collaborative Research Database"?
 
+## Best Search String Found
 
+(mimic-ii OR mimic-iii OR mimicii OR mimiciii OR mimic-2 OR mimic-3 OR mimic2 OR mimic3) AND (physionet OR icu OR “intensive care” OR “critical care”)
 
 ## Python Requirements
 
@@ -14,6 +16,13 @@ dryscrape (For js enabled queries. Requires additional software libraries. See g
 # Citation Tracking Services
 
 # Google Scholar
+
+https://scholar.google.com/intl/en/scholar/about.html
+
+Google Scholar includes journal and conference papers, theses and dissertations, academic books, pre-prints, abstracts, technical reports and other scholarly literature from all broad areas of research. You'll find works from a wide variety of academic publishers, professional societies and university repositories, as well as scholarly articles available anywhere across the web. Google Scholar also includes court opinions and patents.
+
+When we search, we exclude citations and patents.
+
 
 # Medline
 
@@ -84,6 +93,14 @@ Both MEDLINE and other PubMed citations may have links to full-text articles or 
 
 # Web of Science
 
+https://en.wikipedia.org/wiki/Web_of_Science
+
+Expanding the coverage of Web of Science, in November 2009 Thomson Reuters introduced Century of Social Sciences. This service contains files which trace social science research back to the beginning of the 20th century,[7][8] and Web of Science now has indexing coverage from the year 1900 to the present.[9][10] As of 3 September 2014, the multidisciplinary coverage of the Web of Science encompasses over 50,000 scholarly books, 12,000 journals and 160,000 conference proceedings.[11] The selection is made on the basis of impact evaluations and comprise open-access journals, spanning multiple academic disciplines. The coverage includes: the sciences, social sciences, arts, and humanities, and goes across disciplines.[9][12] However, Web of Science does not index all journals, and its coverage in some fields is less complete than in others.
+
+Furthermore, as of September 3, 2014 the total file count of the Web of Science was 90 million records, which included over a billion cited references. This citation service on average indexes around 65 million items per year, and it is described as the largest accessible citation database.[12]
+
+
+
 # SCOPUS
 
 ## Resources
@@ -91,13 +108,21 @@ Both MEDLINE and other PubMed citations may have links to full-text articles or 
 - Search URL: https://www.scopus.com/search/form.uri?display=basic
 - 
 
+
+# IEEE
+
+https://www.ieee.org/publications_standards/publications/xplore/index.html
+
+The IEEE Xplore digital library provides access to IEEE journals, transactions, letters, magazines and conference proceedings, IET journals and conference proceedings, IEEE Standards and IEEE educational courses
+
 # Individual Search Result Numbers
 
 Using search query: `(mimic-ii OR mimic-iii OR mimicii OR mimiciii OR mimic-2 OR mimic-3 OR mimic2 OR mimic3) AND (physionet OR icu OR “intensive care” OR “critical care”)`on 2 October 2017:
-- Google Scholar (do not include citations, do not include patents, include all languages): "about 2180"
-- Pubmed: 121
+- Google Scholar (do not include citations, do not include patents, include all languages): "about 2100"
+- Pubmed: 128
 - Pubmed Central: 230
 - Web of Science: 132
 - SCOPUS: 171
+- IEEE: 283
 
 

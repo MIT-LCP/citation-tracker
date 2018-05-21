@@ -1,132 +1,155 @@
 a web-based data visualization tool for the mimic-ii database
+prolonged elevated heart rate and 90-day survival in acutely ill patients: data from the mimic-iii database
 reproducing a prospective clinical study as a computational retrospective study in mimic-ii
 mimic-iii, a freely accessible critical care database
 clinical data mining by exploring public mimic-ii intensive care database
 accessing the public mimic-ii intensive care relational database for clinical research
 open-access mimic-ii database for intensive care research
+mapping patient trajectories using longitudinal extraction and deep learning in the mimic-iii critical care database
 heuristics to determine ventilation times of icu patients from the mimic-ii database
 prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
+the obesity paradox in icu patients
 calcium supplementation improves clinical outcome in intensive care unit patients: a propensity score matched analysis of a large clinical database mimic-ii
 predicting hyperlactatemia in the mimic ii database
 prognostic value of red blood cell distribution width in acute pancreatitis patients admitted to intensive care units: an analysis of a publicly accessible clinical database mimic ii
 predictive value of ionized calcium in critically ill patients: an analysis of a large clinical database mimic ii
 study on the intermediate ions formed by glutathione peroxidase mimic 2,2'-ditellurobis(2-deoxy-β-cyclodextrin) by electrospray ionization mass spectrometry
+identifying and characterizing highly similar notes in big clinical note datasets
+application of support vector machine in predicting in-hospital mortality risk of patients with acute kidney injury in icu
 evaluation of monitoring cardiac output by long time interval analysis of a radial arterial blood pressure waveform using the mimic ii database
+the mimic code repository: enabling reproducibility in critical care research
 hydrogen bonding of the nucleobase mimic 2-pyridone to fluorobenzenes: an ab initio investigation
+towards unsupervised detection of process models in healthcare
 mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
 identifying psychiatric comorbidities for obstructive sleep apnea in the biomedical literature and electronic health record
+external validation and improvement of life score as a prediction tool in critically ill cirrhosis patients
 standardizing clinical laboratory data for secondary use
 aryl thiol substrate 3-carboxy-4-nitrobenzenethiol strongly stimulating thiol peroxidase activity of glutathione peroxidase mimic 2, 2'-ditellurobis(2-deoxy-beta-cyclodextrin)
 scalable predictive analysis in critically ill patients using a visual open data analysis platform
 collective experience: a database-fuelled, inter-disciplinary team-led learning system
+discovery of highly potent and neurotensin receptor 2 selective neurotensin mimetics
 prediction of acute hypotensive episodes by means of neural network multi-models
 multiparameter intelligent monitoring in intensive care ii: a public-access intensive care unit database
-discovery of highly potent and neurotensin receptor 2 selective neurotensin mimetics
 hypoxic hepatitis - its biochemical profile, causes and risk factors of mortality in critically-ill patients: a cohort study of 565 patients
+mortality prediction in intensive care units (icus) using a deep rule-based fuzzy classifier
+comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives
+selecting relevant features from the electronic health record for clinical code prediction
 scoring model to predict outcome in critically ill cirrhotic patients with acute respiratory failure: comparison with meld scoring models and clif-sofa score
+predicting intervention onset in the icu with switching state space models
+recurrent neural networks for multivariate time series with missing values
+discriminative and distinct phenotyping by constrained tensor factorization
+early biliary drainage is associated with favourable outcomes in critically-ill patients with acute cholangitis
+recurrent neural networks with specialized word embeddings for health-domain named-entity recognition
+prediction of 60-day case fatality in critically-ill patients receiving renal replacement therapy: external validation of a prediction model
+prediction of early unplanned intensive care unit readmission in a uk tertiary care hospital: a cross-sectional machine learning approach
 development of a novel score for the prediction of hospital mortality in patients with severe sepsis: the use of electronic healthcare records with lasso regression
 quick chronic liver failure-sequential organ failure assessment: an easy-to-use scoring model for predicting mortality risk in critically ill cirrhosis patients
+automated diagnosis coding with combined text representations
 a predictive model for medical events based on contextual embedding of temporal sequences
 establishment and validation of gv-saps ii scoring system for non-diabetic critically ill patients
-selecting relevant features from the electronic health record for clinical code prediction
-prediction of early unplanned intensive care unit readmission in a uk tertiary care hospital: a cross-sectional machine learning approach
-predicting intervention onset in the icu with switching state space models
-discriminative and distinct phenotyping by constrained tensor factorization
-automated diagnosis coding with combined text representations
 fluid choice matters in critically-ill patients with acute pancreatitis: lactated ringer's vs. isotonic saline
 prediction of sepsis in the intensive care unit with minimal electronic health record data: a machine learning approach
+biometric authentication using the ppg: a long-term feasibility study
+early hospital mortality prediction of intensive care unit patients using an ensemble learning approach
+combination of static and temporal data analysis to predict mortality and readmission in the intensive care
+coronary artery disease detection using photoplethysmography
 use of electronic health record data to evaluate the impact of race on 30-day mortality in patients admitted to the intensive care unit
-pharmacological studies on novel neurotensin mimetics: discovery of a pharmacologically unique agent exhibiting concentration-dependent dual effects as antagonist and agonist
-estimating patient's health state using latent structure inferred from clinical time series and text
-customization of a severity of illness score using local electronic medical record data
 septic shock prediction for icu patients via coupled hmm walking on sequential contrast patterns
 effect of antipyretic therapy on mortality in critically ill patients with sepsis receiving mechanical ventilation treatment
+customization of a severity of illness score using local electronic medical record data
+estimating patient's health state using latent structure inferred from clinical time series and text
+pharmacological studies on novel neurotensin mimetics: discovery of a pharmacologically unique agent exhibiting concentration-dependent dual effects as antagonist and agonist
 hypotension risk prediction via sequential contrast patterns of icu blood pressure
 prediction using patient comparison vs. modeling: a case study for mortality prediction
 assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
-mortality prediction in icus using a novel time-slicing cox regression method
-performance comparison of multi-label learning algorithms on clinical data for chronic diseases
 large-scale physiological waveform retrieval via locality-sensitive hashing
 mortality prediction in septic shock patients: towards new personalized models in critical care
+mortality prediction in icus using a novel time-slicing cox regression method
+performance comparison of multi-label learning algorithms on clinical data for chronic diseases
+patient prognosis from vital sign time series: combining convolutional neural networks with a dynamical systems approach
+mortality prediction in intensive care units with the super icu learner algorithm (sicula): a population-based study
 efficient and sparse feature selection for biomedical text classification via the elastic net: application to icu risk stratification from nursing notes
+clinicaltime: identification of patients with acute kidney injury using temporal abstractions and temporal pattern matching
 primary study for detection of arterial blood pressure waveform components
 mortality prediction model of septic shock patients based on routinely recorded data
-patient prognosis from vital sign time series: combining convolutional neural networks with a dynamical systems approach
-clinicaltime: identification of patients with acute kidney injury using temporal abstractions and temporal pattern matching
 computationally comparing and analyzing all published scoring systems for diagnosis of disseminated intravascular coagulation
-mortality prediction in intensive care units with the super icu learner algorithm (sicula): a population-based study
-predictive value of lactate in unselected critically ill patients: an analysis using fractional polynomials
 n-gram support vector machines for scalable procedure and diagnosis classification, with applications to clinical free text data from the intensive care unit
+predictive value of lactate in unselected critically ill patients: an analysis using fractional polynomials
+comparison between invasive and non-invasive blood pressure in young, middle and old age
+identifying synonymy between snomed clinical terms of varying length using distributional analysis of electronic health records
 prediction of mortality from respiratory distress among long-term mechanically ventilated patients
 hemodynamic-impact-based prioritization of ventricular tachycardia alarms
-comparison between invasive and non-invasive blood pressure in young, middle and old age
 a simple method to extract key maternal data from neonatal clinical notes
 icuarm-an icu clinical decision support system using association rule mining
-identifying synonymy between snomed clinical terms of varying length using distributional analysis of electronic health records
 microrna-182-5p regulates nerve injury-induced nociceptive hypersensitivity by targeting ephrin type-b receptor 1
 lower short- and long-term mortality associated with overweight and obesity in a large cohort study of adult intensive care unit patients
+performance comparison of systemic inflammatory response syndrome with logistic regression models to predict sepsis in neonates
+robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
 stratified locality-sensitive hashing for accelerated physiological time series retrieval
 analysis of locality-sensitive hashing for fast critical event prediction on physiological time series
-discharge recommendation based on a novel technique of homeostatic analysis
 leveraging a critical care database: selective serotonin reuptake inhibitor use prior to icu admission is associated with increased hospital mortality
-synthesis of a new antischistosomally active and toxicologically tolerant c-12 monothione surrogate of the universal antihelmintic praziquantel
+discharge recommendation based on a novel technique of homeostatic analysis
 clinical predictive modeling development and deployment through fhir web services
+synthesis of a new antischistosomally active and toxicologically tolerant c-12 monothione surrogate of the universal antihelmintic praziquantel
 wavelet based time series forecast with application to acute hypotensive episodes prediction
-robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
 real-time prognosis of icu physiological data streams
-a study of neural word embeddings for named entity recognition in clinical text
 bilateral neuroretinitis as an ocular manifestation of cat scratch disease in 9-year-old boy. a case report
+a study of neural word embeddings for named entity recognition in clinical text
 antipyretic therapy in critically ill patients with sepsis: an interaction with body temperature
-predicting respiratory instability in the icu
 temporal phenome analysis of a large electronic health record cohort enables identification of hospital-acquired complications
 a comparative protease stability study of synthetic macrocyclic peptides that mimic two endocrine hormones
-ecg signal quality during arrhythmia and its application to false alarm reduction
+predicting respiratory instability in the icu
 adsorption of 1,2-dichlorobenzene and 1,2,4-trichlorobenzene in nano- and microsized crystals of mil-101(cr): static and dynamic gravimetric studies
+ecg signal quality during arrhythmia and its application to false alarm reduction
 comparing depth-dependent curing radiant exposure and time of curing of regular and flow bulk-fill composites
-using electronic health record collected clinical variables to predict medical intensive care unit mortality
+closing the data loop: an integrated open access analysis platform for the mimic database
 characterization of long-term elution of platinum from carboplatin-impregnated calcium sulfate hemihydrate beads in vitro by two distinct sample collection methods
 a computational approach to mortality prediction of alcohol use disorder inpatients
+investigating resuscitation code assignment in the intensive care unit using structured and unstructured data
 high-performance detection and early prediction of septic shock for alcohol-use disorder patients
 investigation of relationship between 2,3-butanediol toxicity and production during growth of paenibacillus polymyxa
 role of mirna-210 in hypoxic-ischemic brain edema in neonatal rats
+using electronic health record collected clinical variables to predict medical intensive care unit mortality
 efficient docosahexaenoic acid uptake by the brain from a structured phospholipid
 phenome based analysis as a means for discovering context dependent clinical reference ranges
 dual chemical modification of a polytheonamide mimic: rational design and synthesis of ion-channel-forming 48-mer peptides with potent cytotoxicity
-investigating resuscitation code assignment in the intensive care unit using structured and unstructured data
 synthesis of nisin ab dicarba analogs using ring-closing metathesis: influence of sp(3) versus sp(2) hybridization of the α-carbon atom of residues dehydrobutyrine-2 and dehydroalanine-5 on the lipid ii binding affinity
+health status monitoring for icu patients based on locally weighted principal component analysis
 large scale anomalous patterns of muscovite mica discovered by atomic force microscopy
-radical-scavenging activity and antioxidative effects of olive leaf components oleuropein and hydroxytyrosol in comparison with homovanillic alcohol
-hiv fusion peptide penetrates, disorders, and softens t-cell membrane mimics
-fuzzy risk stratification and risk assessment model for clinical monitoring in the icu
 psychiatric symptom recognition without labeled data using distributional representations of phrases and on-line knowledge
-reducing false arrhythmia alarm rates using robust heart rate estimation and cost-sensitive support vector machines
-phenotyping hypotensive patients in critical care using hospital discharge summaries
+fuzzy risk stratification and risk assessment model for clinical monitoring in the icu
+radical-scavenging activity and antioxidative effects of olive leaf components oleuropein and hydroxytyrosol in comparison with homovanillic alcohol
 red blood cell distribution width and neutrophil to lymphocyte ratio are associated with outcomes of adult subarachnoid haemorrhage patients admitted to intensive care unit
+collision frequency locality-sensitive hashing for prediction of critical events
+reducing false asystole alarms in intensive care
+hiv fusion peptide penetrates, disorders, and softens t-cell membrane mimics
+phenotyping hypotensive patients in critical care using hospital discharge summaries
 adaptive online monitoring for icu patients by combining just-in-time learning and principal component analysis
+reducing false arrhythmia alarm rates using robust heart rate estimation and cost-sensitive support vector machines
 early warnings of heart rate deterioration
 optical blood pressure estimation with photoplethysmography and fft-based neural networks
 antibody-mediated functional control of a dansylated polytheonamide mimic
+lower mean corpuscular hemoglobin concentration is associated with poorer outcomes in intensive care unit admitted patients with acute myocardial infarction
 optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
 using demographic and time series physiological features to classify sepsis in the intensive care unit
 robust estimation of respiratory rate via ecg- and ppg-derived respiratory quality indices
-lower mean corpuscular hemoglobin concentration is associated with poorer outcomes in intensive care unit admitted patients with acute myocardial infarction
 a computational approach to early sepsis detection
 platelet-to-lymphocyte ratio: a novel prognostic factor for prediction of 90-day outcomes in critically ill patients with diabetic ketoacidosis
 photoplethysmography-based method for automatic detection of premature ventricular contractions
-using information theory to identify redundancy in common laboratory tests in the intensive care unit
 robust algorithm to locate heart beats from multiple physiological waveforms by individual signal detector voting
-designing optimal mortality risk prediction scores that preserve clinical knowledge
 interference detection and signal quality assessment of pulse signals
-structural permutation of potent cytotoxin, polytheonamide b: discovery of cytotoxic peptide with altered activity
 a physiological time series dynamics-based approach to patient monitoring and outcome prediction
-acute hypotensive episodes prediction based on non-linear chaotic analysis
-fuzzy modeling to predict severely depressed left ventricular ejection fraction following admission to the intensive care unit using clinical physiology
-reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform
-risk prediction of one-year mortality in patients with cardiac arrhythmias using random survival forest
+designing optimal mortality risk prediction scores that preserve clinical knowledge
+structural permutation of potent cytotoxin, polytheonamide b: discovery of cytotoxic peptide with altered activity
+using information theory to identify redundancy in common laboratory tests in the intensive care unit
 separation of quercetin's biological activity from its oxidative property through bioisosteric replacement of the catecholic hydroxyl groups with fluorine atoms
-precise:privacy-preserving cloud-assisted quality improvement service in healthcare
-word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods
 false ventricular tachycardia alarm suppression in the icu based on the discrete wavelet transform in the ecg signal
+acute hypotensive episodes prediction based on non-linear chaotic analysis
+precise:privacy-preserving cloud-assisted quality improvement service in healthcare
+risk prediction of one-year mortality in patients with cardiac arrhythmias using random survival forest
+fuzzy modeling to predict severely depressed left ventricular ejection fraction following admission to the intensive care unit using clinical physiology
+word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods
+reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform
 multi-label classification of chronically ill patients with bag of words and supervised dimensionality reduction algorithms
 diagnosis code assignment: models and evaluation metrics
 the use of mouse models to investigate shear bond strength in amelogenesis imperfecta
@@ -140,22 +163,22 @@ latent topic discovery of clinical concepts from hospital discharge summaries of
 external phenome analysis enables a rational federated query strategy to detect changing rates of treatment-related complications associated with multiple myeloma
 functionalization of manganite nanoparticles and their interaction with biologically relevant small ligands: picosecond time-resolved fret studies
 a data mining approach to reduce the false alarm rate of patient monitors
+risk stratification of icu patients using topic models inferred from unstructured progress notes
 predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
 an insight into the protection of rat liver against ischemia/reperfusion injury by 2-selenium-bridged beta-cyclodextrin
-risk stratification of icu patients using topic models inferred from unstructured progress notes
 a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
 crystal structure of diaminopimelate epimerase from arabidopsis thaliana, an amino acid racemase critical for l-lysine biosynthesis
 the arabidopsis gras protein scl14 interacts with class ii tga transcription factors and is essential for the activation of stress-inducible promoters
-predicting patient's trajectory of physiological data using temporal trends in similar patients: a system for near-term prognostics
 an investigation of patterns in hemodynamic data indicative of impending hypotension in intensive care
+predicting patient's trajectory of physiological data using temporal trends in similar patients: a system for near-term prognostics
 scope and limitations of the scs-mp2 method for stacking and hydrogen bonding interactions
 a methodology for prediction of acute hypotensive episodes in icu via a risk scoring model including analysis of st-segment variations
 hypotension as a risk factor for acute kidney injury in icu patients
 parallel processing of ecg and blood pressure waveforms for detection of acute hypotensive episodes: a simulation study using a risk scoring model
-predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
 the effect of signal quality on six cardiac output estimators
 a shape-persistent d,l-dipeptide building block for the assembly of rigidified oligopeptides
 oxidative detoxication of carcinogenic 2-nitroanisole by human, rat and rabbit cytochrome p450
+predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
 development and evaluation of predictive alerts for hemodynamic instability in icu patients
 cyclodextrin-derived mimic of glutathione peroxidase exhibiting enzymatic specificity and high catalytic efficiency
 interdepartmental audit with an anatomically realistic lung phantom

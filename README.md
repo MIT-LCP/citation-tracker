@@ -1,3 +1,10 @@
+# Relevant Info
+
+Number of approved mimic users
+
+https://webserver.ecg.mit.edu/~kpierce/useradmin/dua/database_access_grantees.html
+
+
 # Citation Tracker
 
 The goal is to create a reusable tool for tracking use of LCP resources in research papers. e.g. So we can answer the questions, "which research papers were carried out with the use of MIMIC" and "which research papers were carried out with the use of the eICU Collaborative Research Database"?
@@ -9,7 +16,7 @@ The goal is to create a reusable tool for tracking use of LCP resources in resea
 ## Python Requirements
 
 biopython http://biopython.org/
-stem (Tor interface. Requires installation and configuration of tor) http://stem.torproject.org/ 
+stem (Tor interface. Requires installation and configuration of tor) http://stem.torproject.org/
 dryscrape (For js enabled queries. Requires additional software libraries. See github readme) https://github.com/niklasb/dryscrape
 
 
@@ -106,7 +113,7 @@ Furthermore, as of September 3, 2014 the total file count of the Web of Science 
 ## Resources
 
 - Search URL: https://www.scopus.com/search/form.uri?display=basic
-- 
+-
 
 
 # IEEE

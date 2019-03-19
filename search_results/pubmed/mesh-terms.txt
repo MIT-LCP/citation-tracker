@@ -1,0 +1,1028 @@
+Aged
+Aged, 80 and over
+Algorithms
+Boston
+Female
+Hospital Mortality*
+Humans
+Intensive Care Units/statistics & numerical data*
+Machine Learning/statistics & numerical data*
+Male
+Middle Aged
+ROC Curve
+Reproducibility of Results
+Risk
+Severity of Illness Index*
+Acute Disease
+Aged
+Databases, Factual*
+Erythrocyte Indices*
+Female
+Humans
+Intensive Care Units*
+Male
+Middle Aged
+Multivariate Analysis
+Pancreatitis/blood*
+Pancreatitis/diagnosis*
+Prognosis
+Retrospective Studies
+Academic Medical Centers
+Adult
+African Americans/statistics & numerical data
+Aged
+Aged, 80 and over
+Asian Americans/statistics & numerical data
+Boston/epidemiology
+Continental Population Groups/statistics & numerical data*
+Electronic Health Records
+European Continental Ancestry Group/statistics & numerical data
+Female
+Health Status Disparities*
+Hospital Mortality/ethnology*
+Humans
+Intensive Care Units*
+Male
+Middle Aged
+Retrospective Studies
+Adult
+Artificial Intelligence
+Critical Care/statistics & numerical data*
+Databases, Factual*
+Decision Support Systems, Clinical*
+Expert Systems
+Female
+Humans
+Intensive Care Units/statistics & numerical data*
+Medical Informatics Applications
+Medical Records Systems, Computerized
+Monitoring, Physiologic/instrumentation*
+Quality Control
+Retrospective Studies
+United States
+Algorithms*
+Databases, Factual*
+Humans
+Intensive Care Units*
+Intubation
+Pressure
+Respiration, Artificial*
+Time Factors
+Access to Information
+Biomedical Research
+Critical Care*
+Databases, Factual
+Humans
+Internet
+Software*
+User-Computer Interface*
+Aged
+Critical Care
+Databases, Factual*
+Female
+Hospital Mortality*
+Humans
+Intensive Care Units*
+Male
+Middle Aged
+Norepinephrine/antagonists & inhibitors*
+Patient Admission*
+Retrospective Studies
+Serotonin Uptake Inhibitors/therapeutic use*
+Blood Pressure
+Circadian Rhythm
+Critical Care*
+Data Mining*
+Databases, Factual*
+Heart Rate
+Humans
+Medical Informatics*
+Aged
+Cell Count
+Erythrocyte Volume*
+Female
+Humans
+Intensive Care Units*
+Lymphocytes/cytology*
+Male
+Middle Aged
+Neutrophils/cytology*
+Patient Admission*
+Prognosis
+Retrospective Studies
+Subarachnoid Hemorrhage/blood
+Subarachnoid Hemorrhage/diagnosis*
+Subarachnoid Hemorrhage/physiopathology*
+Subarachnoid Hemorrhage/therapy
+Adult
+Classification/methods*
+Electronic Health Records*/classification
+Humans
+Infant, Newborn
+Information Storage and Retrieval*
+Intensive Care Units
+Jaundice, Neonatal/classification
+Jaundice, Neonatal/diagnosis
+Phototherapy/statistics & numerical data
+Respiration, Artificial/statistics & numerical data
+Support Vector Machine*
+Aged
+Calcium/chemistry*
+Calcium/metabolism*
+Critical Illness/mortality*
+Databases, Factual*
+Female
+Humans
+Intensive Care Units/statistics & numerical data
+Logistic Models
+Male
+Medical Informatics/methods*
+Middle Aged
+Predictive Value of Tests
+Blood Pressure
+Critical Care
+Forecasting
+Heart Rate
+Humans
+Intensive Care Units*
+Machine Learning*
+Multiple Organ Failure
+Risk Assessment/methods*
+Shock, Septic*
+Critical Care
+Databases, Factual
+Humans
+Hyperlactatemia*
+Intensive Care Units
+Sepsis
+Shock, Septic
+Adult
+Aged
+Aged, 80 and over
+Databases, Factual
+Demography
+Female
+Humans
+Intensive Care Units*
+Linear Models
+Male
+Middle Aged
+Models, Biological
+Probability
+Sepsis/diagnosis*
+Sepsis/therapy*
+Signal Processing, Computer-Assisted
+Adult
+Aged
+Aged, 80 and over
+Body Mass Index
+Boston/epidemiology
+Cohort Studies
+Critical Illness/mortality*
+Female
+Humans
+Intensive Care Units/statistics & numerical data*
+Male
+Middle Aged
+Obesity/complications
+Obesity/mortality*
+Overweight/complications
+Overweight/mortality*
+Proportional Hazards Models
+Risk Factors
+Severity of Illness Index
+Survival Analysis
+Databases, Factual*
+Electronic Health Records*
+Humans
+Medical Informatics Applications*
+Clinical Laboratory Techniques/standards*
+Databases, Factual/statistics & numerical data*
+Humans
+Information Theory*
+Intensive Care Units/standards*
+Unnecessary Procedures/standards*
+Access to Information*
+Adult
+Critical Care*
+Databases, Factual*
+Humans
+Monitoring, Physiologic*
+Research*
+Wavelet Analysis
+Algorithms
+Blood Pressure/physiology*
+Data Mining/methods*
+Humans
+Hypotension/diagnosis*
+Hypotension/prevention & control*
+Intensive Care Units*
+Pattern Recognition, Automated/methods*
+Risk Factors
+Algorithms
+Biomarkers
+Databases, Factual
+Fuzzy Logic*
+Heart Failure/diagnosis*
+Heart Failure/etiology
+Heart Failure/physiopathology*
+Hemodynamics
+Humans
+Intensive Care Units*
+Models, Theoretical*
+Patient Admission
+Prognosis
+Retrospective Studies
+Severity of Illness Index
+Stroke Volume*
+Ventricular Function, Left*
+Algorithms
+Artifacts
+Critical Care
+Humans
+Hypovolemia*
+Photoplethysmography
+Signal Processing, Computer-Assisted
+Boston
+Critical Care*
+Electronic Health Records/statistics & numerical data*
+Humans
+Intensive Care Units*/organization & administration
+Middle Aged
+Prognosis
+Quality Assurance, Health Care
+Reproducibility of Results
+Retrospective Studies
+Severity of Illness Index*
+Data Mining/methods*
+Electronic Health Records/classification*
+Humans
+Intensive Care Units*
+Medical Informatics Applications*
+Nurses
+Regression Analysis
+Risk Assessment
+Acute Kidney Injury/mortality*
+Critical Care
+Hospital Mortality*
+Humans
+Intensive Care Units
+Prognosis
+ROC Curve
+Sensitivity and Specificity
+Support Vector Machine*
+Fuzzy Logic
+Humans
+Intensive Care Units/organization & administration*
+Monitoring, Physiologic/methods*
+Risk Assessment*
+Algorithms
+Critical Care/statistics & numerical data*
+Critical Illness/therapy*
+Data Mining/methods
+Data Mining/statistics & numerical data*
+Databases, Factual/statistics & numerical data
+Humans
+Information Storage and Retrieval/methods
+Information Storage and Retrieval/statistics & numerical data*
+Intensive Care Units/statistics & numerical data
+Models, Theoretical
+Programming Languages
+Reproducibility of Results
+Computational Biology/methods
+Critical Care/statistics & numerical data*
+Databases, Factual/statistics & numerical data
+Electronic Health Records/statistics & numerical data
+Female
+Humans
+Machine Learning/statistics & numerical data*
+Male
+Supervised Machine Learning/statistics & numerical data
+Unsupervised Machine Learning/statistics & numerical data
+Algorithms
+Clinical Alarms*
+Critical Care/methods*
+Diagnosis, Computer-Assisted/methods*
+Diagnostic Errors/prevention & control*
+Electrocardiography/methods*
+False Positive Reactions
+Humans
+Intensive Care Units
+Pattern Recognition, Automated/methods
+Reproducibility of Results
+Sensitivity and Specificity
+Tachycardia, Ventricular/diagnosis*
+Wavelet Analysis
+Artificial Intelligence*
+Boston
+Decision Making, Computer-Assisted
+Female
+Fluid Therapy*
+Humans
+Information Storage and Retrieval
+Intensive Care Units*
+Male
+Vasoconstrictor Agents/therapeutic use
+Adult
+Aged
+Algorithms
+Computational Biology
+Disseminated Intravascular Coagulation*
+Electronic Health Records*
+Female
+Humans
+Information Storage and Retrieval
+Male
+Middle Aged
+Patient-Specific Modeling*
+Prospective Studies
+Retrospective Studies
+Software*
+Artificial Intelligence*
+Databases, Factual*
+Decision Support Systems, Clinical*
+Expert Systems*
+Humans
+Information Systems
+Intensive Care Units*
+Medical Records Systems, Computerized
+Monitoring, Physiologic/instrumentation*
+Signal Processing, Computer-Assisted
+Software
+Acute Disease
+Algorithms
+Databases, Factual
+Diagnosis, Computer-Assisted/methods*
+Humans
+Hypotension/diagnosis*
+Hypotension/physiopathology
+Intensive Care Units
+Neural Networks (Computer)*
+Predictive Value of Tests
+Regression Analysis
+Reproducibility of Results
+Signal Processing, Computer-Assisted*
+Humans
+Intensive Care Units*
+Logistic Models
+Natural Language Processing
+Resuscitation*
+Adult
+Algorithms
+Brain Injuries/epidemiology
+Child
+Critical Care
+Databases, Factual
+Hospital Mortality*
+Humans
+Intensive Care Units
+Intensive Care Units, Pediatric
+Medical Informatics/methods*
+Models, Statistical
+Outcome Assessment (Health Care)
+Predictive Value of Tests
+Prognosis
+ROC Curve
+Regression Analysis
+Risk Assessment/methods*
+Access to Information
+Biomedical Research*
+Comorbidity
+Critical Care*
+Data Mining
+Databases, Factual*
+Electronic Health Records
+Humans
+Organ Dysfunction Scores
+ROC Curve
+Reproducibility of Results
+Sepsis
+Severity of Illness Index
+Therapeutics
+Algorithms
+Databases, Factual
+Humans
+Intensive Care Units*
+Acute Disease
+Aged
+Critical Illness/mortality*
+Databases, Factual
+Female
+Humans
+Intensive Care Units
+Isotonic Solutions/administration & dosage*
+Logistic Models
+Male
+Massachusetts/epidemiology
+Middle Aged
+Pancreatitis/etiology
+Pancreatitis/mortality*
+Pancreatitis/therapy*
+Resuscitation/methods*
+Retrospective Studies
+Ringer's Lactate
+Sodium Chloride/administration & dosage*
+Adult
+Aged
+Area Under Curve
+Cross-Sectional Studies
+Female
+Humans
+Intensive Care Units/statistics & numerical data*
+Machine Learning*
+Male
+Middle Aged
+Patient Readmission/statistics & numerical data*
+ROC Curve
+Retrospective Studies
+Tertiary Care Centers
+United Kingdom
+Adult
+Algorithms
+Area Under Curve
+Hospital Mortality
+Humans
+Intensive Care Units*
+Models, Theoretical
+Natural Language Processing*
+Nursing Records*
+Risk Assessment/methods*
+Severity of Illness Index
+Unified Medical Language System
+Adult
+Aged
+Critical Illness
+Diabetic Ketoacidosis/blood*
+Diabetic Ketoacidosis/mortality*
+Female
+Humans
+Intensive Care Units
+Kaplan-Meier Estimate
+Longitudinal Studies
+Lymphocyte Count
+Male
+Middle Aged
+Patient Readmission*
+Platelet Count
+Predictive Value of Tests
+Prognosis
+Retrospective Studies
+Time Factors
+Airway Extubation/statistics & numerical data*
+Algorithms
+Artificial Intelligence*
+Database Management Systems
+Databases, Factual*
+Decision Support Systems, Management*
+Diagnosis, Computer-Assisted/methods
+Female
+Humans
+Incidence
+Infant, Newborn
+Male
+New York/epidemiology
+Prognosis
+Reproducibility of Results
+Respiration, Artificial/statistics & numerical data*
+Respiratory Distress Syndrome, Newborn/diagnosis*
+Respiratory Distress Syndrome, Newborn/epidemiology
+Respiratory Distress Syndrome, Newborn/rehabilitation*
+Risk Assessment
+Sensitivity and Specificity
+Treatment Failure
+Critical Care
+Humans
+Intensive Care Units
+Length of Stay
+Logistic Models
+Patient Readmission*
+Retrospective Studies
+Algorithms
+Blood Pressure
+Heart Rate/physiology
+Hemodynamics/physiology*
+Humans
+Intensive Care Units/statistics & numerical data*
+Monitoring, Physiologic
+Multiple Organ Failure/diagnosis*
+Multiple Organ Failure/physiopathology*
+Neural Networks (Computer)
+ROC Curve
+Regression Analysis
+Reproducibility of Results
+Sensitivity and Specificity
+Software
+Time Factors
+Humans
+Hypotension/diagnosis*
+Intensive Care Units
+Nonlinear Dynamics
+Software
+Heart Rate/physiology*
+Humans
+Intensive Care Units
+Internet
+Sepsis/diagnosis
+Sepsis/pathology*
+User-Computer Interface
+Vital Signs/physiology
+Algorithms
+Decision Trees
+Female
+Hospital Mortality*
+Humans
+Intensive Care Units
+Logistic Models
+Male
+Multivariate Analysis
+Respiration Disorders/mortality*
+Respiration, Artificial*
+Time Factors
+Adult
+Blood Pressure/physiology
+Critical Care/methods*
+Humans
+Monitoring, Physiologic/methods*
+Vasoconstrictor Agents*/administration & dosage
+Vasoconstrictor Agents*/therapeutic use
+Aged
+Algorithms
+Critical Care/methods*
+Critical Illness
+Electronic Data Processing
+Female
+Health Status
+Humans
+Intensive Care Units*
+Least-Squares Analysis
+Linear Models
+Machine Learning
+Male
+Medical Informatics
+Middle Aged
+Monitoring, Ambulatory/methods*
+Principal Component Analysis
+Reproducibility of Results
+Sensitivity and Specificity
+Signal Processing, Computer-Assisted
+Vital Signs
+Adult
+Algorithms
+Blood Pressure/physiology
+Databases, Factual
+Female
+Health Status Indicators*
+Heart Rate/physiology
+Hospital Mortality
+Humans
+Intensive Care Units
+Male
+Medical Informatics
+Models, Statistical*
+Monitoring, Physiologic/methods*
+Prognosis
+Reproducibility of Results
+Tilt-Table Test
+Adult
+Datasets as Topic
+Decision Making, Computer-Assisted*
+Decision Support Systems, Clinical
+Humans
+Intensive Care Units
+Length of Stay
+Patient Discharge*
+Prognosis
+ROC Curve
+Retrospective Studies
+Risk Assessment/methods
+Risk Factors
+Triage/methods
+Data Mining*
+Databases, Factual
+Humans
+Intensive Care Units*
+Regression Analysis*
+Support Vector Machine*
+Critical Care/methods*
+Databases, Factual
+Humans
+Medical Records
+Nurses
+Postoperative Complications/diagnosis*
+Postoperative Complications/epidemiology*
+Respiratory Distress Syndrome, Adult/diagnosis*
+Respiratory Distress Syndrome, Adult/epidemiology*
+Respiratory Rate/physiology*
+Risk
+Adult
+Critical Illness
+Cross Infection/diagnosis*
+Electronic Health Records*
+Humans
+Iatrogenic Disease
+Intensive Care Units/organization & administration
+International Classification of Diseases
+Phenotype*
+Time
+Critical Care*
+Data Interpretation, Statistical
+Hemodynamics*
+Humans
+Hypotension/diagnosis*
+Hypotension/physiopathology*
+Pattern Recognition, Automated/methods*
+Regression Analysis
+Acute Disease
+Algorithms
+Blood Pressure/physiology
+Databases, Factual
+Early Diagnosis*
+Humans
+Intensive Care Units
+Models, Theoretical
+Sensitivity and Specificity
+Anti-Bacterial Agents/therapeutic use
+Clostridium Infections/drug therapy
+Clostridium Infections/immunology*
+Clostridium difficile*
+Critical Illness
+Delayed Diagnosis
+Electronic Health Records
+Genomics
+Humans
+Intensive Care Units
+International Classification of Diseases
+Leukocyte Count*
+Leukocytosis/etiology
+Medical Records Systems, Computerized
+Phenotype*
+Reference Values
+Acute Disease
+Algorithms
+Biomedical Engineering/methods
+Blood Pressure
+Cardiology/methods
+Humans
+Hypotension/diagnosis*
+Hypotension/physiopathology*
+Neural Networks (Computer)
+Signal Processing, Computer-Assisted*
+Software
+Time Factors
+Adolescent
+Adult
+Aged
+Algorithms
+Child
+Child, Preschool
+Electrocardiography*
+Fourier Analysis
+Humans
+Infant
+Intensive Care Units
+Middle Aged
+Plethysmography*
+Respiratory Rate/physiology*
+Signal Processing, Computer-Assisted
+Young Adult
+Algorithms*
+Critical Care/methods*
+Decision Support Systems, Clinical*
+Diagnosis, Computer-Assisted/methods*
+Hypotension/diagnosis*
+Monitoring, Physiologic/methods*
+Multiple Organ Failure/diagnosis*
+New York
+Prognosis
+Reproducibility of Results
+Sensitivity and Specificity
+Algorithms
+Hospital Mortality
+Humans
+Intensive Care Units
+Markov Chains*
+Monitoring, Physiologic/methods*
+Oxygen/metabolism
+Partial Pressure
+Pattern Recognition, Automated
+Respiration Disorders/diagnosis*
+Respiration Disorders/mortality
+Respiration Disorders/physiopathology*
+Respiratory Rate/physiology
+Algorithms*
+Databases, Factual
+False Positive Reactions
+Heart/physiology*
+Heart Function Tests/methods*
+Heart Rate*
+Humans
+Sensitivity and Specificity
+Software
+Adult
+Aged
+Aged, 80 and over
+Antipyretics/adverse effects*
+Antipyretics/therapeutic use*
+Body Temperature/drug effects*
+Body Temperature/physiology
+Critical Care
+Critical Illness
+Cryotherapy/adverse effects
+Databases, Factual
+Female
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Probability
+Risk Factors
+Sepsis/drug therapy*
+Sepsis/mortality
+Sepsis/physiopathology*
+Computer Simulation*
+Decision Support Techniques*
+Electronic Health Records*
+Humans
+Models, Statistical
+Phenotype*
+Algorithms*
+Blood Pressure Determination/methods*
+Computer Simulation
+Critical Care/methods
+Diagnosis, Computer-Assisted/methods*
+Electrocardiography/methods*
+Humans
+Hypotension/diagnosis*
+Models, Cardiovascular*
+Reproducibility of Results
+Risk Assessment/methods
+Risk Factors
+Sensitivity and Specificity
+Acute Kidney Injury/blood*
+Acute Kidney Injury/mortality
+Acute Kidney Injury/physiopathology
+Adult
+Age Factors
+Aged
+Alanine Transaminase/blood
+Bilirubin/blood
+Biomarkers/blood
+Critical Illness/mortality*
+Female
+Hepatitis/blood*
+Hepatitis/mortality
+Hepatitis/physiopathology
+Hospital Mortality
+Humans
+Hypoxia/blood*
+Hypoxia/mortality
+Hypoxia/physiopathology
+L-Lactate Dehydrogenase/blood
+Male
+Middle Aged
+Predictive Value of Tests
+Retrospective Studies
+Risk Factors
+Vasoconstrictor Agents/therapeutic use
+Adult
+Aged
+Aged, 80 and over
+Critical Care
+Critical Illness/mortality
+Electronic Health Records/statistics & numerical data*
+Hospital Mortality*
+Humans
+Medical Informatics/methods*
+Middle Aged
+ROC Curve
+Regression Analysis*
+Sepsis/diagnosis
+Sepsis/epidemiology
+Sepsis/mortality*
+Young Adult
+Equipment Failure*
+Humans
+Information Storage and Retrieval*
+Monitoring, Physiologic/instrumentation*
+Algorithms*
+Arrhythmias, Cardiac/diagnosis*
+Artificial Intelligence
+Blood Pressure Determination/methods*
+Critical Care/methods*
+Diagnosis, Computer-Assisted/methods*
+Electrocardiography/methods*
+False Positive Reactions
+Humans
+Pattern Recognition, Automated/methods*
+Reproducibility of Results
+Sensitivity and Specificity
+Aged
+Aged, 80 and over
+Antipyretics/adverse effects*
+Boston/epidemiology
+Critical Illness/mortality*
+Female
+Fever/drug therapy*
+Fever/etiology
+Humans
+Male
+Middle Aged
+Sepsis/complications*
+Sepsis/mortality
+Aged
+Area Under Curve
+Arterial Pressure
+Bilirubin/blood
+Biomarkers/blood
+Creatinine/blood
+Critical Illness
+Databases, Factual
+Decision Support Techniques*
+Female
+Humans
+International Normalized Ratio
+Kaplan-Meier Estimate
+Liver Cirrhosis/blood
+Liver Cirrhosis/complications
+Liver Cirrhosis/diagnosis*
+Liver Cirrhosis/mortality*
+Liver Failure/blood
+Liver Failure/diagnosis*
+Liver Failure/etiology
+Liver Failure/mortality*
+Male
+Middle Aged
+Models, Biological*
+Multiple Organ Failure/blood
+Multiple Organ Failure/diagnosis*
+Multiple Organ Failure/etiology
+Multiple Organ Failure/mortality*
+Organ Dysfunction Scores*
+Predictive Value of Tests
+Prognosis
+ROC Curve
+Reproducibility of Results
+Risk Assessment
+Risk Factors
+Time Factors
+Blood Glucose/analysis*
+Critical Illness/classification*
+Critical Illness/mortality
+Female
+Humans
+Hyperglycemia/diagnosis
+Hypoglycemia/diagnosis
+Male
+Middle Aged
+Organ Dysfunction Scores
+Prognosis
+Proportional Hazards Models
+Reproducibility of Results
+Severity of Illness Index*
+Arrhythmias, Cardiac/diagnosis
+Arrhythmias, Cardiac/physiopathology*
+Clinical Alarms*
+Costs and Cost Analysis*
+Electrocardiography/instrumentation*
+False Positive Reactions
+Heart Rate*
+Humans
+Signal Processing, Computer-Assisted
+Support Vector Machine/economics*
+Time Factors
+Adult
+Alcoholism/mortality*
+Female
+Humans
+Male
+Middle Aged
+Models, Biological*
+Predictive Value of Tests
+Software*
+Time Factors
+Triage/methods*
+Algorithms
+Electronic Health Records
+Humans
+Models, Theoretical*
+Mortality*
+Time Factors
+Algorithms
+Cluster Analysis
+Databases, Factual*
+Aged
+Critical Illness/mortality
+Female
+Health Status Indicators
+Humans
+Liver Cirrhosis/diagnosis
+Liver Cirrhosis/mortality*
+Male
+Middle Aged
+Prognosis
+Respiratory Insufficiency/diagnosis
+Respiratory Insufficiency/mortality*
+Retrospective Studies
+Risk Assessment
+Severity of Illness Index*
+Algorithms
+Databases, Factual
+Humans
+Photoplethysmography/methods*
+Signal Processing, Computer-Assisted*
+Ventricular Premature Complexes/diagnosis*
+Adult
+Computational Biology
+Databases, Factual
+Hemodynamics
+Humans
+Models, Biological
+Multivariate Analysis
+Prognosis
+Shock, Septic/mortality*
+Shock, Septic/physiopathology
+Aged
+Aged, 80 and over
+Critical Care
+Databases, Factual
+Humans
+Middle Aged
+Mortality
+Patient Discharge*
+Pattern Recognition, Automated
+Prognosis
+Algorithms
+Blood Pressure
+Electrocardiography
+Heart Ventricles/pathology
+Heart Ventricles/physiopathology
+Hemodynamics*
+Humans
+Monitoring, Physiologic/instrumentation*
+Tachycardia, Ventricular/physiopathology*
+Wavelet Analysis
+Algorithms
+Databases, Factual
+Electronic Health Records*
+Female
+Humans
+Infant, Newborn*
+Massachusetts
+Mothers*
+Pattern Recognition, Automated*
+Algorithms
+Datasets as Topic
+Electronic Health Records/organization & administration*
+Electronic Health Records/standards
+Health Information Exchange/standards*
+Health Information Interoperability/standards
+Health Level Seven
+Humans
+Internet
+Pilot Projects
+Software*
+Algorithms
+Databases, Factual
+Dose-Response Relationship, Drug
+Heparin/administration & dosage*
+Heparin/pharmacology*
+Humans
+Learning*
+Length of Stay
+Markov Chains
+Reinforcement (Psychology)*
+Retrospective Studies
+Bayes Theorem
+Data Mining*
+Humans
+Knowledge Bases
+Linguistics
+Medical Informatics/methods
+Natural Language Processing*
+Systematized Nomenclature of Medicine
+Terminology as Topic
+Unified Medical Language System*
+Brain Ischemia/classification
+Clinical Coding/methods*
+Evaluation Studies as Topic
+Humans
+International Classification of Diseases*
+Patient Discharge
+Support Vector Machine*
+Databases, Factual*
+Electronic Health Records
+Humans
+Information Storage and Retrieval/methods*
+International Classification of Diseases
+Internet
+Multiple Myeloma/complications*
+Multiple Myeloma/genetics
+Multiple Myeloma/therapy
+Phenotype*
+Pilot Projects
+Therapeutics/adverse effects*
+Databases, Factual*
+Decision Support Systems, Clinical
+Humans
+Prognosis
+User-Computer Interface*

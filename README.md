@@ -2,7 +2,7 @@
 
 Number of approved mimic users
 
-https://webserver.ecg.mit.edu/~kpierce/useradmin/dua/database_access_grantees.html
+https://physionet.org/console/complete-list-credentialed-people/
 
 
 # Citation Tracker

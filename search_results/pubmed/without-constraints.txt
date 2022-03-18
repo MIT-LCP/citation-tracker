@@ -1,184 +1,751 @@
 a web-based data visualization tool for the mimic-ii database
+effects of circadian heart rate variation on short-term and long-term mortality in intensive care unit patients: a retrospective cohort study based on mimic-ii database
+developing and verifying a multivariate model to predict the survival probability after coronary artery bypass grafting in patients with coronary atherosclerosis based on the mimic-iii database
+estimated plasma volume status (epvs) is a predictor for acute myocardial infarction in-hospital mortality: analysis based on mimic-iii database
+elevated lactate dehydrogenase levels display a poor prognostic factor for non-hodgkin's lymphoma in intensive care unit: an analysis of the mimic-iii database combined with external validation
+admission white blood cell count predicts post-discharge mortality in patients with acute aortic dissection: data from the mimic-iii database
+development of a nomogram to predict 28-day mortality of patients with sepsis-induced coagulopathy: an analysis of the mimic-iii database
+overweight is associated with better one-year survival in elderly patients after cardiac surgery: a retrospective analysis of the mimic-iii database
+association between normalized lactate load and mortality in patients with septic shock: an analysis of the mimic-iii database
+favorable outcomes of anticoagulation with unfractioned heparin in sepsis-induced coagulopathy: a retrospective analysis of mimic-iii database
+predicting 30-days mortality for mimic-iii patients with sepsis-3: a machine learning approach using xgboost
+prevalence and mortality of hypochloremia among patients suffering from coronary artery disease and congestive heart failure: an analysis of patients in cin-i and mimic-iii databases
+does diabetes mellitus increase the short- and long-term mortality in patients with critical acute myocardial infarction? results from american mimic-iii and chinese cin cohorts
+development of acute kidney injury prognostic model for critically ill patients based on mimic-iii database
+prediction model of in-hospital mortality in intensive care unit patients with heart failure: machine learning-based, retrospective analysis of the mimic-iii database
+machine learning prediction models for mechanically ventilated patients: analyses of the mimic-iii database
+clinical characteristics of aortic aneurysm in mimic-iii
+an artificial neural networks model for early predicting in-hospital mortality in acute pancreatitis in mimic-iii
+an empirical evaluation of deep learning for icd-9 code assignment using mimic-iii clinical notes
+admission hyperglycemia predicts long-term mortality in critically ill patients with subarachnoid hemorrhage: a retrospective analysis of the mimic-iii database
+analysis of adult disease characteristics and mortality on mimic-iii
 prolonged elevated heart rate and 90-day survival in acutely ill patients: data from the mimic-iii database
 reproducing a prospective clinical study as a computational retrospective study in mimic-ii
-mimic-iii, a freely accessible critical care database
 clinical data mining by exploring public mimic-ii intensive care database
+serum anion gap at admission predicts all-cause mortality in critically ill patients with cerebral infarction: evidence from the mimic-iii database
+association of thiamine use with outcomes in patients with sepsis and alcohol use disorder: an analysis of the mimic-iii database
+risk factors for pulmonary embolism in icu patients: a retrospective cohort study from the mimic-iii database
+development and internal validation of a nomogram to predict mortality during the icu stay of thoracic fracture patients without neurological compromise: an analysis of the mimic-iii clinical database
+impact and predictive value of time-dependent acute physiology and chronic health evaluation ii score on death risk in patients with severe stroke: data analysis based on mimic-iii
+sentiment analysis based on the nursing notes on in-hospital 28-day mortality of sepsis patients utilizing the mimic-iii database
+examination of electrolyte replacements in the icu utilizing mimic-iii dataset demonstrates redundant replacement patterns
+a novel nomogram for predicting survival in patients with severe acute pancreatitis: an analysis based on the large mimic-iii clinical database
+diuretic strategies in patients with resistance to loop-diuretics in the intensive care unit: a retrospective study from the mimic-iii database
+serum anion gap predicts all-cause mortality in critically ill patients with acute kidney injury: analysis of the mimic-iii database
+cardio-pulmonary-renal interactions in icu patients. role of mechanical ventilation, venous congestion and perfusion deficit on worsening of renal function: insights from the mimic-iii database
+association between early central venous pressure measurement and mortality in patients with sepsis: a data analysis of mimic-iii database
+the impact of transthoracic echocardiography on the short-term prognosis of elderly patients in the intensive care unit: a retrospective analysis based on the mimic-iii database
+prognostic value of blood urea nitrogen/creatinine ratio for septic shock: an analysis of the mimic-iii clinical database
+monocyte/lymphocyte ratio as a predictor of 30-day mortality and adverse events in critically ill patients: analysis of the mimic-iii database
+minimum heart rate and mortality in critically ill myocardial infarction patients: an analysis of the mimic-iii database
+nomogram to predict the risk of acute kidney injury in patients with diabetic ketoacidosis: an analysis of the mimic-iii database
+admission oxygen saturation and all-cause in-hospital mortality in acute myocardial infarction patients: data from the mimic-iii database
+risk factors for death and their predictive value on diabetic kidney disease patients in intensive care unit based on mimic-iii database
+central venous pressure measurement is associated with improved outcomes in septic patients: an analysis of the mimic-iii database
+the association between neutrophil-to-lymphocyte count ratio and mortality in septic patients: a retrospective analysis of the mimic-iii database
+novel method of atrial fibrillation case identification and burden estimation using the mimic-iii electronic health data set
 accessing the public mimic-ii intensive care relational database for clinical research
+umls mapping and word embeddings for icd code assignment using the mimic-iii intensive care database
+towards a decision support tool for intensive care discharge: machine learning algorithm development using electronic healthcare data from mimic-iii and bristol, uk
+mean arterial pressure and mortality in patients with distributive shock: a retrospective analysis of the mimic-iii database
+m
+transthoracic echocardiography and mortality in sepsis: analysis of the mimic-iii database
+the relationship between the serum anion gap and all-cause mortality in acute pancreatitis: an analysis of the mimic-iii database
+association of acidemia with short-term mortality of acute myocardial infarction: a retrospective study base on mimic-iii database
+predicting risk for trauma patients using static and dynamic information from the mimic iii database
+utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the mimic-iii database
+a visualisation and extraction tool for time series in the mimic iii database
+strigolactone mimic 2-nitrodebranone is highly active in arabidopsis growth and development
 open-access mimic-ii database for intensive care research
-mapping patient trajectories using longitudinal extraction and deep learning in the mimic-iii critical care database
+platelets as a prognostic marker for sepsis: a cohort study from the mimic-iii database
+mimic-iii, a freely accessible critical care database
 heuristics to determine ventilation times of icu patients from the mimic-ii database
+peeking into a black box, the fairness and generalizability of a mimic-iii benchmarking model
+impact of pulmonary arterial hypertension on systemic inflammation, cardiac injury and hemodynamics in sepsis: a retrospective study from mimic-iii
+effect of early hyperoxemia on mortality in mechanically ventilated septic shock patients according to sepsis-3 criteria: analysis of the mimic-iii database
+optimal targets of the first 24-h partial pressure of carbon dioxide in patients with cerebral injury: data from the mimic-iii and iv database
+lower serum chloride concentrations are associated with increased risk of mortality in critically ill cirrhotic patients: an analysis of the mimic-iii database
+hospital-acquired dysmagnesemia and mortality in critically ill patients: data from mimic-iii database
+blood urea nitrogen and in-hospital mortality in critically ill patients with cardiogenic shock: analysis of the mimic-iii database
 prediction of extubation failure for neonates with respiratory distress syndrome using the mimic-ii clinical database
-the obesity paradox in icu patients
+atrial fibrillation detection during sepsis: study on mimic iii icu data
+outcomes for patients with sepsis following admission to the intensive care unit based on health insurance status: a study from the medical information mart for intensive care-iii (mimic-iii) database
+association of sex with clinical outcome in critically ill sepsis patients: a retrospective analysis of the large clinical database mimic-iii
+atrial fibrillation detection in icu patients: a pilot study on mimic iii data<sup>.</sup>
 calcium supplementation improves clinical outcome in intensive care unit patients: a propensity score matched analysis of a large clinical database mimic-ii
+icd coding from clinical text using multi-filter residual convolutional neural network
+mapping patient trajectories using longitudinal extraction and deep learning in the mimic-iii critical care database
+predicting sepsis with a recurrent neural network using the mimic iii database
+predicting severe clinical events by learning about life-saving actions and outcomes using distant supervision
+the obesity paradox in icu patients
 predicting hyperlactatemia in the mimic ii database
 prognostic value of red blood cell distribution width in acute pancreatitis patients admitted to intensive care units: an analysis of a publicly accessible clinical database mimic ii
 predictive value of ionized calcium in critically ill patients: an analysis of a large clinical database mimic ii
 study on the intermediate ions formed by glutathione peroxidase mimic 2,2'-ditellurobis(2-deoxy-β-cyclodextrin) by electrospray ionization mass spectrometry
+a shallow u-net architecture for reliably predicting blood pressure (bp) from photoplethysmogram (ppg) and electrocardiogram (ecg) signals
+predicting lab values for gastrointestinal bleeding patients in the intensive care unit: a comparative study on the impact of comorbidities and medications
+development and validation of a novel blending machine learning model for hospital mortality prediction in icu patients with sepsis
+development and validation of a model for the early prediction of the rrt requirement in patients with rhabdomyolysis
+a comprehensive evaluation for the prediction of mortality in intensive care units with lstm networks: patients with cardiovascular disease
+mortality, disease progression, and disease burden of acute kidney injury in alcohol use disorder subpopulation
+acute kidney injury detection using refined and physiological-feature augmented urine output
+automated icd-9 coding via a deep learning approach
+predicting duration of mechanical ventilation in acute respiratory distress syndrome using supervised machine learning
+iseeu: visually interpretable deep learning for mortality prediction inside the icu
+prediction of blood lactate values in critically ill patients: a retrospective multi-center cohort study
+mortality prediction for patients with acute respiratory distress syndrome based on machine learning: a population-based study
+democratizing ehr analyses with fiddle: a flexible data-driven preprocessing pipeline for structured clinical data
+federated learning on clinical benchmark data: performance assessment
+evaluation of monitoring cardiac output by long time interval analysis of a radial arterial blood pressure waveform using the mimic ii database
+prolonged dexmedetomidine infusion in critically ill adult patients: a retrospective analysis of a large clinical database multiparameter intelligent monitoring in intensive care iii
+seeking predictors for paroxysmal atrial fibrillation in stroke with an online clinical database
+natural language processing of electronic health records is superior to billing codes to identify symptom burden in hemodialysis patients
+assessing the readability of freely available icu notes
+dexmedetomidine versus midazolam and propofol for sedation in critically ill patients: mining the medical information mart for intensive care data
+mechanical power of ventilation is associated with mortality in critically ill patients: an analysis of patients in two observational cohorts
+analysis of diseases distribution in medical information mart for intensive care iii database
 identifying and characterizing highly similar notes in big clinical note datasets
 application of support vector machine in predicting in-hospital mortality risk of patients with acute kidney injury in icu
-evaluation of monitoring cardiac output by long time interval analysis of a radial arterial blood pressure waveform using the mimic ii database
-the mimic code repository: enabling reproducibility in critical care research
 hydrogen bonding of the nucleobase mimic 2-pyridone to fluorobenzenes: an ab initio investigation
-towards unsupervised detection of process models in healthcare
-mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
-identifying psychiatric comorbidities for obstructive sleep apnea in the biomedical literature and electronic health record
-external validation and improvement of life score as a prediction tool in critically ill cirrhosis patients
+the effect of long-term duration renal replacement therapy on outcomes of critically ill patients with acute kidney injury: a retrospective cohort study
+jlan: medical code prediction via joint learning attention networks and denoising mechanism
+evaluating semantic similarity methods for comparison of text-derived phenotype profiles
+predictive value of lymphocyte-to-monocyte ratio in critically ill patients with atrial fibrillation: a propensity score matching analysis
+incidence, prognosis, and risk factors of sepsis-induced cardiomyopathy
+relationship between red blood cell distribution width and all-cause mortality in disseminated intravascular coagulation patients: a retrospective analysis
+novel prognostic predictor for primary pulmonary hypertension: focus on blood urea nitrogen
+association between red blood cell distribution width-to-albumin ratio and prognosis of patients with aortic aneurysms
+association between postoperative thrombocytopenia and outcomes after coronary artery bypass grafting surgery
+association between obstructive sleep apnea and reduced mortality in critically ill patients: a propensity score-based analysis
+association between anion gap and mortality in critically ill patients with cardiogenic shock
+the association between serum anion gap and all-cause mortality in disseminated intravascular coagulation patients: a retrospective analysis
+development and validation of nomogram to predict long-term prognosis of critically ill patients with acute myocardial infarction
+thyroid hormone levels as a predictor marker predict the prognosis of patients with sepsis
+towards similarity-based differential diagnostics for common diseases
+development and validation of a clinical prediction model for sleep disorders in the icu: a retrospective cohort study
+empirical analysis of zipf's law, power law, and lognormal distributions in medical discharge reports
+unpacking prevalence and dichotomy in quick sequential organ failure assessment and systemic inflammatory response syndrome parameters: observational data-driven approach backed by sepsis pathophysiology
 standardizing clinical laboratory data for secondary use
+the association of red blood cell distribution width to platelet count ratio and 28-day mortality of patients with sepsis: a retrospective cohort study
+a health informatics transformation model based on intelligent cloud computing - exemplified by type 2 diabetes mellitus with related cardiovascular diseases
+few-shot and zero-shot multi-label learning for structured label spaces
+safe medicine recommendation via star interactive enhanced-based transformer model
+computational signatures for post-cardiac arrest trajectory prediction: importance of early physiological time series
+early detection of pneumonia with the help of dementia in geriatric hip fracture patients
+classifying social determinants of health from unstructured electronic health records using deep learning-based natural language processing
+a unified machine reading comprehension framework for cohort selection
+a nomogram to predict in-hospital mortality of neonates admitted to the intensive care unit
+understanding the complexity of sepsis mortality prediction via rule discovery and analysis: a pilot study
+an explainable cnn approach for medical codes prediction from clinical text
+prediction of in-hospital mortality of <i>clostriodiodes difficile</i> infection using critical care database: a big data-driven, machine learning approach
+a new scoring system for predicting in-hospital death in patients having liver cirrhosis with esophageal varices
+value of early critical care transthoracic echocardiography for patients undergoing mechanical ventilation: a retrospective study
+transformer-based named entity recognition for parsing clinical trial eligibility criteria
+an exploratory data quality analysis of time series physiologic signals using a large-scale intensive care unit database
+association between the neutrophil percentage-to-albumin ratio and outcomes in cardiac intensive care unit patients
+association between body mass index and short-term mortality in patients with intra-abdominal infections: a retrospective, single-centre cohort study using the medical information mart for intensive care database
+development of a generalizable natural language processing pipeline to extract physician-reported pain from clinical reports: generated using publicly-available datasets and tested on institutional clinical reports for cancer patients with bone metastases
+medical code prediction via capsule networks and icd knowledge
+a machine learning-based algorithm for the prediction of intensive care unit delirium (pride): retrospective study
+performance of intensive care unit severity scoring systems across different ethnicities in the usa: a retrospective observational study
 aryl thiol substrate 3-carboxy-4-nitrobenzenethiol strongly stimulating thiol peroxidase activity of glutathione peroxidase mimic 2, 2'-ditellurobis(2-deoxy-beta-cyclodextrin)
+predicting open wound mortality in the icu using machine learning
+novel criteria to classify ards severity using a machine learning approach
+a fast, accurate, and generalisable heuristic-based negation detection algorithm for clinical text
+mimic ii: a massive temporal icu patient database to support research in intelligent patient monitoring
+building longitudinal medication dose data using medication information extracted from clinical notes in electronic health records
+prediction models for aki in icu: a comparative study
+association between base excess and mortality in patients with congestive heart failure
+development and validation of a prognostic nomogram for myocardial infarction patients in intensive care units: a retrospective cohort study
+predicting acute kidney injury in critically ill patients using comorbid conditions utilizing machine learning
+deceased serum bilirubin and albumin levels in the assessment of severity and mortality in patients with acute pancreatitis
+automatic medical code assignment via deep learning approach for intelligent healthcare
+text processing for detection of fungal ocular involvement in critical care patients: cross-sectional study
+extraction of information related to drug safety surveillance from electronic health record notes: joint modeling of entities and relations using knowledge-aware neural attentive models
+automated icd coding via unsupervised knowledge integration (unite)
+toward optimal heparin dosing by comparing multiple machine learning methods: retrospective study
+the classe gator (clinical acronym sense disambiguator): a method for predicting acronym sense from neonatal clinical notes
+the mimic code repository: enabling reproducibility in critical care research
+towards unsupervised detection of process models in healthcare
+medextractr: a targeted, customizable approach to medication extraction from electronic health records
+elevated urea-to-creatinine ratio provides a biochemical signature of muscle catabolism and persistent critical illness after major trauma
+developing a fhir-based ehr phenotyping framework: a case study for identification of patients with obesity and multiple comorbidities from discharge summaries
 scalable predictive analysis in critically ill patients using a visual open data analysis platform
-collective experience: a database-fuelled, inter-disciplinary team-led learning system
+external validation and improvement of life score as a prediction tool in critically ill cirrhosis patients
+what can we learn about fall risk factors from ehr nursing notes? a text mining study
+external validation of a laboratory prediction algorithm for the reduction of unnecessary labs in the critical care setting
+identifying psychiatric comorbidities for obstructive sleep apnea in the biomedical literature and electronic health record
+a clinical prediction model to predict heparin treatment outcomes and provide dosage recommendations: development and validation study
+estimation of baseline serum creatinine with machine learning
+synthesis of nisin ab dicarba analogs using ring-closing metathesis: influence of sp(3) versus sp(2) hybridization of the α-carbon atom of residues dehydrobutyrine-2 and dehydroalanine-5 on the lipid ii binding affinity
+improvement of apache ii score system for disease severity based on xgboost algorithm
 discovery of highly potent and neurotensin receptor 2 selective neurotensin mimetics
+collective experience: a database-fuelled, inter-disciplinary team-led learning system
+nomogram to predict the risk of septic acute kidney injury in the first 24 h of admission: an analysis of intensive care unit data
 prediction of acute hypotensive episodes by means of neural network multi-models
 multiparameter intelligent monitoring in intensive care ii: a public-access intensive care unit database
-hypoxic hepatitis - its biochemical profile, causes and risk factors of mortality in critically-ill patients: a cohort study of 565 patients
-mortality prediction in intensive care units (icus) using a deep rule-based fuzzy classifier
-comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives
-selecting relevant features from the electronic health record for clinical code prediction
-scoring model to predict outcome in critically ill cirrhotic patients with acute respiratory failure: comparison with meld scoring models and clif-sofa score
-predicting intervention onset in the icu with switching state space models
-recurrent neural networks for multivariate time series with missing values
-discriminative and distinct phenotyping by constrained tensor factorization
-early biliary drainage is associated with favourable outcomes in critically-ill patients with acute cholangitis
-recurrent neural networks with specialized word embeddings for health-domain named-entity recognition
-prediction of 60-day case fatality in critically-ill patients receiving renal replacement therapy: external validation of a prediction model
-prediction of early unplanned intensive care unit readmission in a uk tertiary care hospital: a cross-sectional machine learning approach
-development of a novel score for the prediction of hospital mortality in patients with severe sepsis: the use of electronic healthcare records with lasso regression
-quick chronic liver failure-sequential organ failure assessment: an easy-to-use scoring model for predicting mortality risk in critically ill cirrhosis patients
-automated diagnosis coding with combined text representations
-a predictive model for medical events based on contextual embedding of temporal sequences
-establishment and validation of gv-saps ii scoring system for non-diabetic critically ill patients
-fluid choice matters in critically-ill patients with acute pancreatitis: lactated ringer's vs. isotonic saline
-prediction of sepsis in the intensive care unit with minimal electronic health record data: a machine learning approach
+prediction of hypotension events with physiologic vital sign signatures in the intensive care unit
+multilevel self-attention model and its use on medical risk prediction
+the prognostic value of calcium in post-cardiovascular surgery patients in the intensive care unit
+postoperative neutrophil-to-lymphocyte ratio is associated with mortality in adult patients after cardiopulmonary bypass surgery: a cohort study
+deep reinforcement learning for optimal critical care pain management with morphine using dueling double-deep q networks
+a novel clustering-based algorithm for continuous and noninvasive cuff-less blood pressure estimation
+cuff-less blood pressure measurement based on hybrid feature selection algorithm and multi-penalty regularized regression technique
+establishment and validation of the predictive model for the in-hospital death in patients with sepsis
+association of systemic immune-inflammation index with short-term mortality of congestive heart failure: a retrospective cohort study
+multi-faceted semantic clustering with text-derived phenotypes
+prognostic association between perioperative red blood cell transfusion and postoperative cardiac surgery outcomes
+establishment of a prognostic model for patients with sepsis based on sofa: a retrospective cohort study
+impact of diagnosis code grouping method on clinical prediction model performance: a multi-site retrospective observational study
+do the types and routes of proton pump inhibitor treatments affect <i>clostridium difficile</i> in icu patients? a retrospective cohort study
+on-device reliability assessment and prediction of missing photoplethysmographic data using deep neural networks
+nocturnal mean arterial pressure rising is associated with mortality in the intensive care unit: a retrospective cohort study
+pharmacological studies on novel neurotensin mimetics: discovery of a pharmacologically unique agent exhibiting concentration-dependent dual effects as antagonist and agonist
+blood pressure estimation based on pulse arrival time and heart rate : a correlation analysis for critically ill patients<sup>.</sup>
+predicting icu readmission using grouped physiological and medication trends
+prognostic accuracy of the serum lactate level, the sofa score and the qsofa score for mortality among adults with sepsis
+adaptive template matching of photoplethysmogram pulses to detect motion artefact
+helical toroid phantom for 3-d flow imaging investigations
+prevalence and temporal distribution of extrasystoles in septic icu patients: the feasibility of predicting fluid responsiveness using extrasystoles
 biometric authentication using the ppg: a long-term feasibility study
+machine learning for the prediction of acute kidney injury in critical care patients with acute cerebrovascular disease
+the red blood cell distribution width-albumin ratio: a promising predictor of mortality in heart failure patients - a cohort study
+prediction of cardiac arrest in critically ill patients based on bedside vital signs monitoring
+multi-channel fusion lstm for medical event prediction using ehrs
+blood urea nitrogen to serum albumin ratio as a new prognostic indicator in critical patients with chronic heart failure
+medgcn: medication recommendation and lab test imputation via graph convolutional networks
+mechanical power of ventilation is associated with mortality in neurocritical patients: a cohort study
+predictive value of red blood cell distribution width for 1-year all-cause mortality in critically ill patients with acute myocardial infarction
+construction and validation of a risk prediction model for acute kidney injury in patients suffering from septic shock
+serum anion gap is associated with risk of all-cause mortality in critically ill patients with acute myocardial infarction
+an explainable machine learning framework for lung cancer hospital length of stay prediction
+role of empiric antifungal therapy in patients with perforated peptic ulcers
+risk factor analysis and nomogram for predicting in-hospital mortality in icu patients with sepsis and lung infection
+sequen-c: a multilevel overview of temporal event sequences
+red cell distribution width to platelet count ratio: a promising routinely available indicator of mortality for acute traumatic brain injury
+unifying diagnosis identification and prediction method embedding the disease ontology structure from electronic medical records
+developing machine learning models for prediction of mortality in the medical intensive care unit
+a deep learning program to predict acute kidney injury
+neutrophil albumin ratio is associated with all-cause mortality in stroke patients: a retrospective database study
+association of hyperchloremia with all-cause mortality in patients admitted to the surgical intensive care unit: a retrospective cohort study
+effects of negation and uncertainty stratification on text-derived patient profile similarity
+association of fib-4 index and clinical outcomes in critically ill patients with acute kidney injury: a cohort study
+dynamic neural graphs based federated reptile for semi-supervised multi-tasking in healthcare applications
+a nomogram to predict in-hospital mortality for post-gastrointestinal resection surgery patients in intensive care units: a retrospective cohort study
+does the magic of bert apply to medical code assignment? a quantitative study
+predictive value of red blood cell distribution width in septic shock patients with thrombocytopenia: a retrospective study using machine learning
+machine learning outperforms existing clinical scoring tools in the prediction of postoperative atrial fibrillation during intensive care unit admission after cardiac surgery
+short- and medium-term survival of critically ill patients with solid cancer admitted to the intensive care unit
+deep-learning-based survival prediction of patients in coronary care units
+predictive modelling of susceptibility to substance abuse, mortality and drug-drug interactions in opioid patients
+performance of sequential organ failure assessment and simplified acute physiology score ii for post-cardiac surgery patients in intensive care unit
+association between albumin infusion and outcomes in patients with acute kidney injury and septic shock
+a novel artificial intelligence based intensive care unit monitoring system: using physiological waveforms to identify sepsis
+rare disease identification from clinical notes with ontologies and weak supervision
+prediction of acute kidney injury in icu with gradient boosting decision tree algorithms
+preoperative liver function test abnormalities were associated with short-term and long-term prognosis in cardiac surgery patients without liver disease
+mechanical power normalized to predicted body weight is associated with mortality in critically ill patients: a cohort study
+an interpretable intensive care unit mortality risk calculator
+obesity paradox of all-cause mortality in 4,133 patients treated with coronary revascularization
+association between blood urea nitrogen and 30-day mortality in patients with sepsis: a retrospective analysis
+a novel nomogram for predicting 3-year mortality in critically ill patients after coronary artery bypass grafting
+development and validation of a simple-to-use nomogram for predicting in-hospital mortality in patients with acute heart failure undergoing continuous renal replacement therapy
+distribution-based similarity measures applied to laboratory results matching
+association between the central venous pressure and all-cause mortality in critically ill patients with acute kidney injury
+ecg signal-enabled automatic diagnosis technology of heart failure
+low-density lipoprotein cholesterol is inversely associated with all-cause mortality of patients in the coronary care unit
+a trauma-related survival predictive model of acute respiratory distress syndrome
+the relationship of the geriatric nutritional risk index to mortality and length of stay in elderly patients with acute respiratory failure: a retrospective cohort study
+towards predictive analysis on disease progression: a variational hawkes process model
+using explainable machine learning to improve intensive care unit alarm systems
+machine learning prediction models for mortality in intensive care unit patients with lactic acidosis
+association between serum osmolality and acute kidney injury in critically ill patients: a retrospective cohort study
+clinical value of the lactate/albumin ratio and lactate/albumin ratio × age score in the assessment of prognosis in patients with sepsis
+serum total bilirubin level is associated with hospital mortality rate in adult critically ill patients: a retrospective study
+long-term mortality predictors of icu fungaemia
+sentiment analysis for necessary preview of 30-day mortality in sepsis patients and the control strategies
+a retrospective cohort study on the association between red cell distribution width and all-cause mortality of patients with cholecystitis at icu admission
+early coagulation disorder is associated with an increased risk of atrial fibrillation in septic patients
+the hyperbilirubinemia and potential predictors influence on long-term outcomes in sepsis: a population-based propensity score-matched study
+feature explanations in recurrent neural networks for predicting risk of mortality in intensive care patients
+venous thromboembolism in icu patients with intracerebral hemorrhage: risk factors and the prognosis after anticoagulation therapy
+the red blood cell distribution width-albumin ratio was a potential prognostic biomarker for diabetic ketoacidosis
+uncertainty-gated stochastic sequential model for ehr mortality prediction
+recognizing blood pressure patterns in sedated critically ill patients on mechanical ventilation by spectral clustering
+a machine learning sepsis prediction algorithm for intended intensive care unit use (navoy sepsis): proof-of-concept study
+a nomogram for predicting hospital mortality in intensive care unit patients with acute myocardial infarction
+automatically disambiguating medical acronyms with ontology-aware deep learning
+limitations of transformers on clinical text classification
+hierarchical information criterion for variable abstraction
+association of post-operative systolic blood pressure variability with mortality after coronary artery bypass grafting
+atrial fibrillation prediction from critically ill sepsis patients
+systemic immune-inflammation index for predicting the prognosis of critically ill patients with acute pancreatitis
+med7: a transferable clinical natural language processing model for electronic health records
+association between the admission serum bicarbonate and short-term and long-term mortality in acute aortic dissection patients admitted to the intensive care unit
+multitask prediction of organ dysfunction in the intensive care unit using sequential subnetwork routing
+catan: chart-aware temporal attention network for adverse outcome prediction
+examining the concordance in the documented pressure injury site, stage, and count in medical information mart for intensive care-iii
+effects of etomidate use in icu patients on ventilator therapy: a study of 12,526 patients in an open database from a single center
+the red blood cell distribution width-albumin ratio: a promising predictor of mortality in stroke patients
+association between comorbid asthma and prognosis of critically ill patients with severe sepsis: a cohort study
+incorporating real-world evidence into the development of patient blood glucose prediction algorithms for the icu
+early warning of citric acid overdose and timely adjustment of regional citrate anticoagulation based on machine learning methods
+risk potential for organ dysfunction associated with sodium bicarbonate therapy in critically ill patients with hemodynamic worsening
+prediction of weaning from mechanical ventilation using convolutional neural networks
 early hospital mortality prediction of intensive care unit patients using an ensemble learning approach
+structuring clinical text with ai: old versus new natural language processing techniques evaluated on eight common cardiovascular diseases
+association of timing of biliary drainage with clinical outcomes in severe acute cholangitis: a retrospective cohort study
+lactate is associated with increased 30-day mortality in critically ill patients with alcohol use disorder
+relationship between early serum sodium and potassium levels and aki severity and prognosis in oliguric aki patients
+improving prediction of low-prior clinical events with simultaneous general patient-state representation learning
+body mass index is associated with the severity and all-cause mortality of acute kidney injury in critically ill patients: an analysis of a large critical care database
+editorial: registries and population databases in clinical research and practice
+association of fluid balance with mortality in sepsis is modified by admission hemoglobin levels: a large database study
+utilization of echocardiography after acute kidney injury was associated with improved outcomes in patients in intensive care unit
+comparative efficacy of fentanyl and morphine in patients with or at risk for acute respiratory distress syndrome: a propensity score-matched cohort study
+a deep attention model to forecast the length of stay and the in-hospital mortality right on admission from icd codes and demographic data
+an explainable machine learning algorithm for risk factor analysis of in-hospital mortality in sepsis survivors with icu readmission
+variable selection for causal mediation analysis using lasso-based methods
+quantification of bert diagnosis generalizability across medical specialties using semantic dataset distance
+the association between the baseline and the change in neutrophil-to-lymphocyte ratio and short-term mortality in patients with acute respiratory distress syndrome
+the association between four scoring systems and 30-day mortality among intensive care patients with sepsis: a cohort study
+systemic immune-inflammation index as a promising predictor of mortality in patients with acute coronary syndrome: a real-world study
+mgp-atttcn: an interpretable machine learning model for the prediction of sepsis
+survfit: doubly sparse rule learning for survival data
+empirical findings on the role of structured data, unstructured data, and their combination for automatic clinical phenotyping
+magec: using non-homogeneous ensemble consensus for predicting drivers in unexpected mechanical ventilation
+effect of spontaneous breathing on ventilator-free days in critically ill patients-an analysis of patients in a large observational cohort
+heart rate fluctuation and mortality in critically ill myocardial infarction patients: a retrospective cohort study
+oasis +: leveraging machine learning to improve the prognostic accuracy of oasis severity score for predicting in-hospital mortality
+a novel risk-predicted nomogram for sepsis associated-acute kidney injury among critically ill patients
+admission serum ionized and total calcium as new predictors of mortality in patients with cardiogenic shock
+neural network predicts need for red blood cell transfusion for patients with acute gastrointestinal bleeding admitted to the intensive care unit
+association of prescription opioid use on mortality and hospital length of stay in the intensive care unit
+a hybrid model for family history information identification and relation extraction: development and evaluation of an end-to-end information extraction system
+machine learning applied to a cardiac surgery recovery unit and to a coronary care unit for mortality prediction
+embedding, aligning and reconstructing clinical notes to explore sepsis
+improved characterisation of clinical text through ontology-based vocabulary expansion
+mining heterogeneous clinical notes by multi-modal latent topic model
+explainable automated coding of clinical notes using hierarchical label-wise attention networks and label embedding initialisation
+ghs-net a generic hybridized shallow neural network for multi-label biomedical text classification
+use of electronic health record data to evaluate the impact of race on 30-day mortality in patients admitted to the intensive care unit
+a visual analytic approach for the identification of icu patient subpopulations using icd diagnostic codes
+efficacy and safety of corticosteroids for septic shock in immunocompromised patients: a cohort study from mimic
+development and validation of a nomogram to predict the mortality risk in elderly patients with arf
+an estimation method of continuous non-invasive arterial blood pressure waveform using photoplethysmography: a u-net architecture-based approach
+a novel model to label delirium in an intensive care unit from clinician actions
+data-driven curation process for describing the blood glucose management in the intensive care unit
+uncertainty-aware variational-recurrent imputation network for clinical time series
+application of bayesian networks to generate synthetic health data
+hypoxic hepatitis - its biochemical profile, causes and risk factors of mortality in critically-ill patients: a cohort study of 565 patients
+comparative effectiveness of midazolam, propofol, and dexmedetomidine in patients with or at risk for acute respiratory distress syndrome: a propensity score-matched cohort study
+convolutional neural network model for intensive care unit acute kidney injury prediction
+development and validation of a risk stratification model for predicting the mortality of acute kidney injury in critical care patients
+association between obesity and short-and long-term mortality in patients with acute respiratory distress syndrome based on the berlin definition
+multimodal temporal-clinical note network for mortality prediction
+modeling multivariate clinical event time-series with recurrent temporal mechanisms
+preoperative lymphocyte-to-monocyte ratio as a prognostic predictor of long-term mortality in cardiac surgery patients: a propensity score matching analysis
+diagnostic accuracy of a dynamically increased red blood cell distribution width in very low birth weight infants with serious bacterial infection
+association between blood eosinophils and mortality in critically ill patients with acute exacerbation of chronic obstructive pulmonary disease: a retrospective cohort study
+machine learning prediction models for prognosis of critically ill patients after open-heart surgery
+the impact of statin use prior to intensive care unit admission on critically ill patients with sepsis
+the association of coagulation indicators and coagulant agents with 30-day mortality of critical diabetics
+a boosting inspired personalized threshold method for sepsis screening
+pressure ulcer injury in unstructured clinical notes: detection and interpretation
+blood urea nitrogen to serum albumin ratio independently predicts mortality in critically ill patients with acute pulmonary embolism
+comparison of approaches for prediction of renal replacement therapy-free survival in patients with acute kidney injury
+the neutrophil-lymphocyte ratio is associated with postoperative mortality of cardiac surgery
+characteristics and clinical subtypes of cancer patients in the intensive care unit: a retrospective observational study for two large databases
+mortality prediction in cerebral hemorrhage patients using machine learning algorithms in intensive care units
+arterial oxygen pressure targets in critically ill patients: analysis of a large icu database
+machine learning predicts mortality in septic patients using only routinely available abg variables: a multi-centre evaluation
 combination of static and temporal data analysis to predict mortality and readmission in the intensive care
 coronary artery disease detection using photoplethysmography
-use of electronic health record data to evaluate the impact of race on 30-day mortality in patients admitted to the intensive care unit
-septic shock prediction for icu patients via coupled hmm walking on sequential contrast patterns
+the value of lactate/albumin ratio for predicting the clinical outcomes of critically ill patients with heart failure
+using interpretability approaches to update "black-box" clinical prediction models: an external validation study in nephrology
+the incidence and outcome of severe hyperlactatemia in critically ill patients
+predicting mortality in critically ill patients with diabetes using machine learning and clinical notes
+predicting missing values in medical data via xgboost regression
+predicting the need for intubation in the first 24 h after critical care admission using machine learning approaches
+red blood cell distribution width as a predictor of 28-day mortality in critically ill patients with alcohol use disorder
+positive association between systemic immune-inflammatory index and mortality of cardiogenic shock
+x-cal: explicit calibration for survival analysis
+an interpretable risk prediction model for healthcare with pattern attention
+dynamic survival prediction in intensive care units from heterogeneous time series without the need for variable selection or curation
+a deep learning backcasting approach to the electrolyte, metabolite, and acid-base parameters that predict risk in icu patients
+hyperchloremia in critically ill patients: association with outcomes and prediction using electronic health record data
+association between red blood cell distribution width and long-term mortality in acute respiratory failure patients
+supervised machine learning for the early prediction of acute respiratory distress syndrome (ards)
+the neutrophil percentage-to-albumin ratio as a new predictor of all-cause mortality in patients with cardiogenic shock
+fluctuations of driving pressure during mechanical ventilation indicates elevated central venous pressure and poor outcomes
+multi-ontology refined embeddings (more): a hybrid multi-ontology and corpus-based semantic representation model for biomedical concepts
+taper: time-aware patient ehr representation
+a nuisance-free inference procedure accounting for the unknown missingness with application to electronic health records
+using machine learning methods to predict in-hospital mortality of sepsis patients in the icu
+lactate/albumin ratio: an early prognostic marker in critically ill patients
+estimating patient's health state using latent structure inferred from clinical time series and text
+a new analytical framework for missing data imputation and classification with uncertainty: missing data imputation and heart failure readmission prediction
+predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults
 effect of antipyretic therapy on mortality in critically ill patients with sepsis receiving mechanical ventilation treatment
 customization of a severity of illness score using local electronic medical record data
-estimating patient's health state using latent structure inferred from clinical time series and text
-pharmacological studies on novel neurotensin mimetics: discovery of a pharmacologically unique agent exhibiting concentration-dependent dual effects as antagonist and agonist
+anion gap was associated with inhospital mortality and adverse clinical outcomes of coronary care unit patients
+a decision support method for prehospital emergency care based on ranking the importance of physiological variables
+fold-stratified cross-validation for unbiased and privacy-preserving federated learning
+towards unstructured mortality prediction with free-text clinical notes
+diagnostic prediction with sequence-of-sets representation learning for clinical events
+explainable prediction of medical codes with knowledge graphs
+a machine learning-based prediction of hospital mortality in patients with postoperative sepsis
+septic shock prediction for icu patients via coupled hmm walking on sequential contrast patterns
+predicting mortality in critical care patients with fungemia using structured and unstructured data
+generating sequential electronic health records using dual adversarial autoencoder
+dr. agent: clinical predictive model via mimicked second opinions
+prediction of septic shock onset in icu by instantaneous monitoring of vital signs<sup>.</sup>
+cloud services for patient cohort identification using the informatics for integrating biology and the bedside platform
+pulmonary hypertension with adult respiratory distress syndrome: prevalence, clinical impact, and association with central venous pressure
+composite cde: modeling composite relationships between common data elements for representing complex clinical data
+active deep learning to detect demographic traits in free-form clinical notes
+relationship between "1-hour serum lactate" level and 30-day mortality in critical care patients in intensive care unit
+introduction of critical care database based on specialized information systems: a model of critical care medicine database in large level iii grade a hospital
+the weekend effect for stroke patients admitted to intensive care: a retrospective cohort analysis
+acidosis predicts mortality independently from hyperlactatemia in patients with sepsis
+prognostic values of sofa score, qsofa score, and lods score for patients with sepsis
+can neo4j replace postgresql in healthcare?
+inferring multimodal latent topics from electronic health records
+identifying risk factors for pressure injury in adult critical care patients
+increased neutrophil percentage-to-albumin ratio is associated with all-cause mortality in patients with severe sepsis or septic shock
+comparison of four scoring systems for predicting icu mortality in patients with sepsis
+deep learning with sentence embeddings pre-trained on biomedical corpora improves the performance of finding similar sentences in electronic medical records
+califorest: calibrated random forest for health data
+a machine learning-based model for 1-year mortality prediction in patients admitted to an intensive care unit with a diagnosis of sepsis
+red blood cell distribution width predicts long-term mortality in critically ill patients with acute kidney injury: a retrospective database study
+association between furosemide administration and outcomes in critically ill patients with acute kidney injury
+the neutrophil percentage-to-albumin ratio is associated with all-cause mortality in critically ill patients with acute kidney injury
+association between comorbid chronic obstructive pulmonary disease and prognosis of patients admitted to the intensive care unit for non-copd reasons: a retrospective cohort study
+fluid-limiting treatment strategies among sepsis patients in the icu: a retrospective causal analysis
+a new method for identifying the acute respiratory distress syndrome disease based on noninvasive physiological parameters
+forecasting intracranial hypertension using multi-scale waveform metrics
 hypotension risk prediction via sequential contrast patterns of icu blood pressure
+a disease inference method based on symptom extraction and bidirectional long short term memory networks
+using a multi-task recurrent neural network with attention mechanisms to predict hospital mortality of patients
+red blood cell distribution width is associated with mortality risk in patients with acute respiratory distress syndrome based on the berlin definition: a propensity score matched cohort study
+benchmarking deep learning architectures for predicting readmission to the icu and describing patients-at-risk
+a study of deep learning approaches for medication and adverse drug event extraction from clinical text
 prediction using patient comparison vs. modeling: a case study for mortality prediction
+a hybrid method of recurrent neural network and graph neural network for next-period prescription prediction
+customization scenarios for de-identification of clinical notes
+incorporating medical code descriptions for diagnosis prediction in healthcare
+a method for the graphical modeling of relative temporal constraints
+a long short-term memory ensemble approach for improving the outcome prediction in intensive care unit
+using machine learning to predict hyperchloremia in critically ill patients
+enhancing clinical concept extraction with contextual embeddings
+early lactate measurement is associated with better outcomes in septic patients with an elevated serum lactate level
+hierarchical adaptive multi-task learning framework for patient diagnoses and diagnostic category classification
+construction of multi-parameter emergency database and preliminary application research
+increased body mass index linked to greater short- and long-term survival in sepsis patients: a retrospective analysis of a large clinical database
+the neutrophil-lymphocyte ratio: a promising predictor of mortality in coronary care unit patients - a cohort study
+predicting the incidence of pressure ulcers in the intensive care unit using machine learning
+red blood cell distribution width is associated with all-cause mortality in critically ill patients with cardiogenic shock
+critical transitions in intensive care units: a sepsis case study
+enhancing prediction models for one-year mortality in patients with acute myocardial infarction and post myocardial infarction syndrome
+early prediction of acute kidney injury in critical care setting using clinical notes and structured multivariate physiological measurements
+analysis and prediction of unplanned intensive care unit readmission using recurrent neural networks with long short-term memory
+association of serum total and ionized calcium with all-cause mortality incritically ill patients with acute kidney injury
+improved survival of cancer patients admitted to the intensive care unit between 2002 and 2011 at a u.s. teaching hospital
+mining compact predictive pattern sets using classification model
+recent context-aware lstm for clinical event time-series prediction
+detecting insertion, substitution, and deletion errors in radiology reports using neural sequence-to-sequence models
+multitask learning and benchmarking with clinical time series data
 assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations
+predicting patient's diagnoses and diagnostic categories from clinical-events in ehr data
+the value of admission serological indicators for predicting 28-day mortality in intensive care patients with acute heart failure: construction and validation of a nomogram
+the prognostic value of modified nutric score for patients in cardiothoracic surgery recovery unit: a retrospective cohort study
+c
+m
+building computational models to predict one-year mortality in icu patients with acute myocardial infarction and post myocardial infarction syndrome
+using self organizing maps to compare sepsis patients from the neonatal and adult intensive care unit
+machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care
+prognostic nomogram for acute pancreatitis patients: an analysis of publicly electronic healthcare records in intensive care unit
+data-driven discovery of a novel sepsis pre-shock state predicts impending septic shock in the icu
+admission blood glucose is associated with the 30-days mortality in septic patients: a retrospective cohort study
+synthesizing electronic health records using improved generative adversarial networks
+neutrophil-lymphocyte ratio is associated with all-cause mortality among critically ill patients with acute kidney injury
+toward a model for personal health record interoperability
+mortality prediction in icus using a novel time-slicing cox regression method
+relation between red cell distribution width and mortality in critically ill patients with acute respiratory distress syndrome
+withholding or withdrawing invasive interventions may not accelerate time to death among dying icu patients
+an attention based deep learning model of clinical events in the intensive care unit
+performance comparison of multi-label learning algorithms on clinical data for chronic diseases
+early prediction of acute kidney injury following icu admission using a multivariate panel of physiological measurements
+noise detection in electrocardiogram signals for intensive care unit patients
+early hospital mortality prediction using vital signals
+a frame-based nlp system for cancer-related information extraction
+using demographic factors and comorbidities to develop a predictive model for icu mortality in patients with acute exacerbation copd
+early prediction of acute kidney injury in critical care setting using clinical notes
+machine learning for real-time prediction of complications in critical care: a retrospective study
+ehr phenotyping via jointly embedding medical concepts and words into a unified vector space
 large-scale physiological waveform retrieval via locality-sensitive hashing
 mortality prediction in septic shock patients: towards new personalized models in critical care
-mortality prediction in icus using a novel time-slicing cox regression method
-performance comparison of multi-label learning algorithms on clinical data for chronic diseases
+effectiveness of sodium bicarbonate infusion on mortality in septic patients with metabolic acidosis
+prevalence and nature of financial considerations documented in narrative clinical records in intensive care units
+efficient and sparse feature selection for biomedical text classification via the elastic net: application to icu risk stratification from nursing notes
+the association between red blood cell distribution width and mortality in critically ill patients with acute kidney injury
+relationship of red blood cell distribution width with cancer mortality in hospital
+clinicaltime: identification of patients with acute kidney injury using temporal abstractions and temporal pattern matching
+predicting volume responsiveness among sepsis patients using clinical data and continuous physiological waveforms
+prediction of 60-day case fatality in critically ill patients receiving renal replacement therapy: external validation of a prediction model
+high serum iron level is associated with increased mortality in patients with sepsis
+benchmarking deep learning models on large healthcare datasets
+predictive modeling in urgent care: a comparative study of machine learning approaches
+association of initial serum total calcium concentration with mortality in critical illness
+sentiment in nursing notes as an indicator of out-of-hospital mortality in intensive care patients
+primary study for detection of arterial blood pressure waveform components
+computationally comparing and analyzing all published scoring systems for diagnosis of disseminated intravascular coagulation
 patient prognosis from vital sign time series: combining convolutional neural networks with a dynamical systems approach
 mortality prediction in intensive care units with the super icu learner algorithm (sicula): a population-based study
-efficient and sparse feature selection for biomedical text classification via the elastic net: application to icu risk stratification from nursing notes
-clinicaltime: identification of patients with acute kidney injury using temporal abstractions and temporal pattern matching
-primary study for detection of arterial blood pressure waveform components
+predicting mortality in diabetic icu patients using machine learning and severity indices
+identifying supplement use within clinical notes: an applicationof natural language processing
+from sour grapes to low-hanging fruit: a case study demonstrating a practical strategy for natural language processing portability
+<i>tableone</i>: an open source python package for producing summary statistics for research papers
+early prediction of sepsis in emr records using traditional ml techniques and deep learning lstm networks
+recurrent neural networks for multivariate time series with missing values
 mortality prediction model of septic shock patients based on routinely recorded data
-computationally comparing and analyzing all published scoring systems for diagnosis of disseminated intravascular coagulation
+mortality prediction in intensive care units (icus) using a deep rule-based fuzzy classifier
+comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives
+early biliary drainage is associated with favourable outcomes in critically-ill patients with acute cholangitis
+an adaptive weight learning-based multitask deep network for continuous blood pressure estimation using electrocardiogram signals
+recurrent neural networks with specialized word embeddings for health-domain named-entity recognition
 n-gram support vector machines for scalable procedure and diagnosis classification, with applications to clinical free text data from the intensive care unit
 predictive value of lactate in unselected critically ill patients: an analysis using fractional polynomials
+selecting relevant features from the electronic health record for clinical code prediction
+prediction of early unplanned intensive care unit readmission in a uk tertiary care hospital: a cross-sectional machine learning approach
+scoring model to predict outcome in critically ill cirrhotic patients with acute respiratory failure: comparison with meld scoring models and clif-sofa score
 comparison between invasive and non-invasive blood pressure in young, middle and old age
-identifying synonymy between snomed clinical terms of varying length using distributional analysis of electronic health records
+predicting intervention onset in the icu with switching state space models
+development of a novel score for the prediction of hospital mortality in patients with severe sepsis: the use of electronic healthcare records with lasso regression
+quick chronic liver failure-sequential organ failure assessment: an easy-to-use scoring model for predicting mortality risk in critically ill cirrhosis patients
+microrna-182-5p regulates nerve injury-induced nociceptive hypersensitivity by targeting ephrin type-b receptor 1
+discriminative and distinct phenotyping by constrained tensor factorization
 prediction of mortality from respiratory distress among long-term mechanically ventilated patients
 hemodynamic-impact-based prioritization of ventricular tachycardia alarms
 a simple method to extract key maternal data from neonatal clinical notes
 icuarm-an icu clinical decision support system using association rule mining
-microrna-182-5p regulates nerve injury-induced nociceptive hypersensitivity by targeting ephrin type-b receptor 1
+automated diagnosis coding with combined text representations
+identifying synonymy between snomed clinical terms of varying length using distributional analysis of electronic health records
+a predictive model for medical events based on contextual embedding of temporal sequences
+establishment and validation of gv-saps ii scoring system for non-diabetic critically ill patients
+fluid choice matters in critically-ill patients with acute pancreatitis: lactated ringer's vs. isotonic saline
+big data and machine learning in critical care: opportunities for collaborative research
+prediction of sepsis in the intensive care unit with minimal electronic health record data: a machine learning approach
+proximal-type epithelioid sarcoma of vulva - case series of a rare tumor
+immunogenic amino acid motifs and linear epitopes of covid-19 mrna vaccines
 lower short- and long-term mortality associated with overweight and obesity in a large cohort study of adult intensive care unit patients
-performance comparison of systemic inflammatory response syndrome with logistic regression models to predict sepsis in neonates
+word embeddings trained on published case reports are lightweight, effective for clinical tasks, and free of protected health information
+application of machine learning to predict acute kidney disease in patients with sepsis associated acute kidney injury
+a review of mortality risk prediction models in smartphone applications
+predicting prolonged length of icu stay through machine learning
+associations between elevated systolic blood pressure and outcomes in critically ill patients: a retrospective cohort study and propensity analysis
+early-phase urine output and severe-stage progression of oliguric acute kidney injury in critical care
+predictive value of red blood cell distribution width in critically ill patients with atrial fibrillation: a retrospective cohort study
+prognostic nutritional index predicts acute kidney injury and mortality of patients in the coronary care unit
+novel density poincaré plot based machine learning method to detect atrial fibrillation from premature atrial/ventricular contractions
+a deep learning approach for sepsis monitoring via severity score estimation
+five novel clinical phenotypes for critically ill patients with mechanical ventilation in intensive care units: a retrospective and multi database study
+synergic antioxidant activity of γ-terpinene with phenols and polyphenols enabled by hydroperoxyl radicals
+enzymatic incorporation of a coumarin-guanine base pair
+utilizing imbalanced electronic health records to predict acute kidney injury by ensemble learning and time series model
+discharge recommendation based on a novel technique of homeostatic analysis
+preliminary results on density poincare plot based atrial fibrillation detection from premature atrial/ventricular contractions<sup>.</sup>
+leveraging a critical care database: selective serotonin reuptake inhibitor use prior to icu admission is associated with increased hospital mortality
 robust monitoring of hypovolemia in intensive care patients using photoplethysmogram signals
+inducing selectivity and chirality in group iv metal coordination with high-denticity hydroxypyridinones
+lactate indices as predictors of in-hospital mortality or 90-day survival after admission to an intensive care unit in unselected critically ill patients
+factors associated with outcomes of septic shock patients receiving high dose noradrenaline according to three primary infection sites
+biological effects of a simplified synthetic analogue of ion-channel-forming polytheonamide b on plasma membrane and lysosomes
+an ensemble of neural models for nested adverse drug events and medication extraction with subwords
 stratified locality-sensitive hashing for accelerated physiological time series retrieval
 analysis of locality-sensitive hashing for fast critical event prediction on physiological time series
-leveraging a critical care database: selective serotonin reuptake inhibitor use prior to icu admission is associated with increased hospital mortality
-discharge recommendation based on a novel technique of homeostatic analysis
-clinical predictive modeling development and deployment through fhir web services
-synthesis of a new antischistosomally active and toxicologically tolerant c-12 monothione surrogate of the universal antihelmintic praziquantel
-wavelet based time series forecast with application to acute hypotensive episodes prediction
-real-time prognosis of icu physiological data streams
-bilateral neuroretinitis as an ocular manifestation of cat scratch disease in 9-year-old boy. a case report
+blood pressure estimation from photoplethysmogram using a spectro-temporal deep neural network
+inhaled beta2-agonists increase in-hospital mortality in icu patients with heart failure
+2-deoxy-d-glucose and its analogs: from diagnostic to therapeutic agents
+virus-virus interactions impact the population dynamics of influenza and the common cold
+predicting in-hospital mortality of patients with acute kidney injury in the icu using random forest model
+impact of socio-economic status and race on emergency hospital admission outcomes: analysis from hospital admissions between 2001 and 2012
+construction and evaluation of a sepsis risk prediction model for urinary tract infection
+design, synthesis and functional analysis of dansylated polytheonamide mimic: an artificial peptide ion channel
 a study of neural word embeddings for named entity recognition in clinical text
+bilateral neuroretinitis as an ocular manifestation of cat scratch disease in 9-year-old boy. a case report
+clinical predictive modeling development and deployment through fhir web services
+novel pyrene excimer and fluorogenic probe for the detection of alkylating agents
+predictive accuracy of serum total calcium for both critically high and critically low ionized calcium in critical illness
+real-time prognosis of icu physiological data streams
 antipyretic therapy in critically ill patients with sepsis: an interaction with body temperature
-temporal phenome analysis of a large electronic health record cohort enables identification of hospital-acquired complications
-a comparative protease stability study of synthetic macrocyclic peptides that mimic two endocrine hormones
-predicting respiratory instability in the icu
+severity classification of chronic obstructive pulmonary disease and asthma with heart rate and spo2 sensors
+time-related association between fluid balance and mortality in sepsis patients: interaction between fluid balance and haemodynamics
+wavelet based time series forecast with application to acute hypotensive episodes prediction
+designing 3-dimensional in vitro oviduct culture systems to study mammalian fertilization and embryo production
+recurrent neural network models for blood pressure monitoring using ppg morphological features
+microrna-122 mimic improves stroke outcomes and indirectly inhibits nos2 after middle cerebral artery occlusion in rats
+a novel switching state-space model for post-icu mortality prediction and survival analysis
+prediction of arterial blood pressure waveforms from photoplethysmogram signals via fully convolutional neural networks
+relationship between 24-h venous blood glucose variation and mortality among patients with acute respiratory failure
+a machine learning method for acute hypotensive episodes prediction using only non-invasive parameters
+repeatability testing of a new hybrid iii 6-year-old atd lower extremity
 adsorption of 1,2-dichlorobenzene and 1,2,4-trichlorobenzene in nano- and microsized crystals of mil-101(cr): static and dynamic gravimetric studies
-ecg signal quality during arrhythmia and its application to false alarm reduction
+real-time cuffless continuous blood pressure estimation using deep learning model
+robust ppg motion artifact detection using a 1-d convolution neural network
+the association between autoimmune disease and 30-day mortality among sepsis icu patients: a cohort study
 comparing depth-dependent curing radiant exposure and time of curing of regular and flow bulk-fill composites
-closing the data loop: an integrated open access analysis platform for the mimic database
+estimation of arterial blood pressure waveform from photoplethysmogram signal using linear transfer function approach
+schrödinger spectrum based ppg features for the estimation of the arterial blood pressure
+platelet-to-lymphocyte ratio as a prognostic predictor of mortality for sepsis: interaction effect with disease severity-a retrospective study
+positive fluid balance is associated with increased in-hospital mortality in patients with intracerebral hemorrhage
+temporal phenome analysis of a large electronic health record cohort enables identification of hospital-acquired complications
 characterization of long-term elution of platinum from carboplatin-impregnated calcium sulfate hemihydrate beads in vitro by two distinct sample collection methods
-a computational approach to mortality prediction of alcohol use disorder inpatients
-investigating resuscitation code assignment in the intensive care unit using structured and unstructured data
-high-performance detection and early prediction of septic shock for alcohol-use disorder patients
+design, synthesis, biological evaluation, and modeling of a non-carbohydrate antagonist of the myelin-associated glycoprotein
+prediction of an acute hypotensive episode during an icu hospitalization with a super learner machine-learning algorithm
 investigation of relationship between 2,3-butanediol toxicity and production during growth of paenibacillus polymyxa
+ecg signal quality during arrhythmia and its application to false alarm reduction
+extracting alcohol and substance abuse status from clinical notes: the added value of nursing data
+estimation of the blood pressure waveform using electrocardiography<sup>.</sup>
+system for measuring oxygen consumption rates of mammalian cells in static culture under hypoxic conditions
 role of mirna-210 in hypoxic-ischemic brain edema in neonatal rats
-using electronic health record collected clinical variables to predict medical intensive care unit mortality
+a comparative protease stability study of synthetic macrocyclic peptides that mimic two endocrine hormones
 efficient docosahexaenoic acid uptake by the brain from a structured phospholipid
-phenome based analysis as a means for discovering context dependent clinical reference ranges
+performance comparison of systemic inflammatory response syndrome with logistic regression models to predict sepsis in neonates
+predicting respiratory instability in the icu
+novel data imputation for multiple types of missing data in intensive care units
 dual chemical modification of a polytheonamide mimic: rational design and synthesis of ion-channel-forming 48-mer peptides with potent cytotoxicity
-synthesis of nisin ab dicarba analogs using ring-closing metathesis: influence of sp(3) versus sp(2) hybridization of the α-carbon atom of residues dehydrobutyrine-2 and dehydroalanine-5 on the lipid ii binding affinity
+data to diagnosis in global health: a 3p approach
+early-warning of ards using novelty detection and data fusion
+deriving high performance alerts from reduced sensor data for timely intervention in acute hypotensive episodes
+personalized blood pressure estimation using photoplethysmography: a transfer learning approach
+unstructured clinical notes within the 24 hours since admission predict short, mid & long-term mortality in adult icu patients
+phenome based analysis as a means for discovering context dependent clinical reference ranges
+effect of hypoproteinemia on the mortality of sepsis patients in the icu: a retrospective cohort study
 health status monitoring for icu patients based on locally weighted principal component analysis
+leukocytes in critical patients with asthma exacerbation
+comparing the impact on the prognosis of acute myocardial infarction critical patients of using midazolam, propofol, and dexmedetomidine for sedation
+the effect of dobutamine in sepsis: a propensity score matched analysis
+continuous blood pressure estimation from non-invasive measurements using support vector regression
+mechanical learning for prediction of sepsis-associated encephalopathy
+the effect of dobutamine vs milrinone in sepsis: a big data, real-world study
+a prediction model for assessing prognosis in critically ill patients with sepsis-associated acute kidney injury
+investigating resuscitation code assignment in the intensive care unit using structured and unstructured data
 large scale anomalous patterns of muscovite mica discovered by atomic force microscopy
+relationship between first 24-h mean body temperature and clinical outcomes of post-cardiac surgery patients
+effect of ondansetron on reducing icu mortality in patients with acute kidney injury
+interpretability of time-series deep learning models: a study in cardiovascular patients admitted to intensive care unit
+atrial fibrillation increases inpatient and 4-year all-cause mortality in critically ill patients with liver cirrhosis
 psychiatric symptom recognition without labeled data using distributional representations of phrases and on-line knowledge
-fuzzy risk stratification and risk assessment model for clinical monitoring in the icu
-radical-scavenging activity and antioxidative effects of olive leaf components oleuropein and hydroxytyrosol in comparison with homovanillic alcohol
 red blood cell distribution width and neutrophil to lymphocyte ratio are associated with outcomes of adult subarachnoid haemorrhage patients admitted to intensive care unit
+data pre-processing using neural processes for modelling personalised vital-sign time-series data
+associations between early thiamine administration and clinical outcomes in critically ill patients with acute kidney injury
+the effect of ventilator-associated pneumonia on the prognosis of intensive care unit patients within 90 days and 180 days
+impact of sex on use of low tidal volume ventilation in invasively ventilated icu patients-a mediation analysis using two observational cohorts
+performance of d-dimer for predicting sepsis mortality in the intensive care unit
+majority and minority gates realized in enzyme-biocatalyzed systems integrated with logic networks and interfaced with bioelectronic systems
+the critical care data exchange format: a proposed flexible data standard for combining clinical and high-frequency physiologic data in critical care
+radical-scavenging activity and antioxidative effects of olive leaf components oleuropein and hydroxytyrosol in comparison with homovanillic alcohol
+differential effects of the blood pressure state on pulse rate variability and heart rate variability in critically ill patients
+fibrinogen level predicts outcomes in critically ill patients with acute exacerbation of chronic heart failure
+knowledge-aware multi-center clinical dataset adaptation: problem, method, and application
+identifying subpopulations of septic patients: a temporal data-driven approach
 collision frequency locality-sensitive hashing for prediction of critical events
 reducing false asystole alarms in intensive care
-hiv fusion peptide penetrates, disorders, and softens t-cell membrane mimics
+predicting hypotension in the icu using noninvasive physiological signals
+fuzzy risk stratification and risk assessment model for clinical monitoring in the icu
+a comprehensive way to access hospital death prediction model for acute mesenteric ischemia: a combination of traditional statistics and machine learning
+development and validation of an automated algorithm to detect atrial fibrillation within stored intensive care unit continuous electrocardiographic data: observational study
+development and validation of a sepsis mortality risk score for sepsis-3 patients in intensive care unit
+predicting future occurrence of acute hypotensive episodes using noninvasive and invasive features
+a clinically practical and interpretable deep model for icu mortality prediction with external validation
+a deep learning solution to recommend laboratory reduction strategies in icu
+prognostic role of ammonia in critical care patients without known hepatic disease
+classification of biomedical texts for cardiovascular diseases with deep neural network using a weighted feature representation method
+synthetic photoplethysmogram generation using two gaussian functions
 phenotyping hypotensive patients in critical care using hospital discharge summaries
-adaptive online monitoring for icu patients by combining just-in-time learning and principal component analysis
 reducing false arrhythmia alarm rates using robust heart rate estimation and cost-sensitive support vector machines
-early warnings of heart rate deterioration
-optical blood pressure estimation with photoplethysmography and fft-based neural networks
+adaptive online monitoring for icu patients by combining just-in-time learning and principal component analysis
+development of a nomogram to predict 30-day mortality of patients with sepsis-associated encephalopathy: a retrospective cohort study
+synthesis of a new antischistosomally active and toxicologically tolerant c-12 monothione surrogate of the universal antihelmintic praziquantel
+generation of realistic synthetic validation healthcare datasets using generative adversarial networks
+the association of coagulation indicators with in-hospital mortality and 1-year mortality of patients with sepsis at icu admissions: a retrospective cohort study
+a customizable deep learning model for nosocomial risk prediction from critical care notes with indirect supervision
 antibody-mediated functional control of a dansylated polytheonamide mimic
-lower mean corpuscular hemoglobin concentration is associated with poorer outcomes in intensive care unit admitted patients with acute myocardial infarction
 optimal medication dosing from suboptimal clinical examples: a deep reinforcement learning approach
 using demographic and time series physiological features to classify sepsis in the intensive care unit
 robust estimation of respiratory rate via ecg- and ppg-derived respiratory quality indices
+hiv fusion peptide penetrates, disorders, and softens t-cell membrane mimics
 a computational approach to early sepsis detection
+improving the immunostimulatory potency of diethanolamine-containing lipid a mimics
+early warnings of heart rate deterioration
+optical blood pressure estimation with photoplethysmography and fft-based neural networks
+red blood cell distribution width provides additional prognostic value beyond severity scores in adult critical illness
+lower mean corpuscular hemoglobin concentration is associated with poorer outcomes in intensive care unit admitted patients with acute myocardial infarction
+an intelligent warning model for early prediction of cardiac arrest in sepsis patients
+a concept for graph-based temporal similarity of patient data
+multimorbidity states associated with higher mortality rates in organ dysfunction and sepsis: a data-driven analysis in critical care
+b
 platelet-to-lymphocyte ratio: a novel prognostic factor for prediction of 90-day outcomes in critically ill patients with diabetic ketoacidosis
 photoplethysmography-based method for automatic detection of premature ventricular contractions
-robust algorithm to locate heart beats from multiple physiological waveforms by individual signal detector voting
+a new prediction model for assessing the clinical outcomes of icu patients with community-acquired pneumonia: a decision tree analysis
+estimating systolic blood pressure using convolutional neural networks
+verb: vfcdm-based electrocardiogram reconstruction and beat detection algorithm
 interference detection and signal quality assessment of pulse signals
-a physiological time series dynamics-based approach to patient monitoring and outcome prediction
+red blood cell distribution width predicts long-term outcomes in sepsis patients admitted to the intensive care unit
+robust algorithm to locate heart beats from multiple physiological waveforms by individual signal detector voting
 designing optimal mortality risk prediction scores that preserve clinical knowledge
-structural permutation of potent cytotoxin, polytheonamide b: discovery of cytotoxic peptide with altered activity
 using information theory to identify redundancy in common laboratory tests in the intensive care unit
-separation of quercetin's biological activity from its oxidative property through bioisosteric replacement of the catecholic hydroxyl groups with fluorine atoms
-false ventricular tachycardia alarm suppression in the icu based on the discrete wavelet transform in the ecg signal
+a physiological time series dynamics-based approach to patient monitoring and outcome prediction
+structural permutation of potent cytotoxin, polytheonamide b: discovery of cytotoxic peptide with altered activity
+synthesis of a dimeric monosaccharide lipid a mimic and its synergistic effect on the immunostimulatory activity of lipopolysaccharide
 acute hypotensive episodes prediction based on non-linear chaotic analysis
-precise:privacy-preserving cloud-assisted quality improvement service in healthcare
+predictive value of prothrombin time for all-cause mortality in acute myocardial infarction patients<sup>.</sup>
 risk prediction of one-year mortality in patients with cardiac arrhythmias using random survival forest
 fuzzy modeling to predict severely depressed left ventricular ejection fraction following admission to the intensive care unit using clinical physiology
-word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods
-reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform
+separation of quercetin's biological activity from its oxidative property through bioisosteric replacement of the catecholic hydroxyl groups with fluorine atoms
+big data in healthcare - the promises, challenges and opportunities from a research perspective: a case study with a model database
+precise:privacy-preserving cloud-assisted quality improvement service in healthcare
+false ventricular tachycardia alarm suppression in the icu based on the discrete wavelet transform in the ecg signal
 multi-label classification of chronically ill patients with bag of words and supervised dimensionality reduction algorithms
-diagnosis code assignment: models and evaluation metrics
+word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods
 the use of mouse models to investigate shear bond strength in amelogenesis imperfecta
 electrophile-modified lipoic derivatives of pdc-e2 elicits anti-mitochondrial antibody reactivity
-v-type nerve agent detection using a carbon nanotube-based amperometric enzyme electrode
+diagnosis code assignment: models and evaluation metrics
+an investigation on the effect of photoperiod and temperature on vertebral band deposition in little skate leucoraja erinacea
 an early respiratory distress detection method with markov models
 predicting postoperative acute respiratory failure in critical care using nursing notes and physiological signals
 is there opportunity for automated decision-support and closed-loop control in icu patients receiving vasopressor infusion?
 risk prediction for heart failure incidence within 1-year using clinical and laboratory factors
 latent topic discovery of clinical concepts from hospital discharge summaries of a heterogeneous patient cohort
+reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform
 external phenome analysis enables a rational federated query strategy to detect changing rates of treatment-related complications associated with multiple myeloma
+closing the data loop: an integrated open access analysis platform for the mimic database
+using electronic health record collected clinical variables to predict medical intensive care unit mortality
+a computational approach to mortality prediction of alcohol use disorder inpatients
 functionalization of manganite nanoparticles and their interaction with biologically relevant small ligands: picosecond time-resolved fret studies
-a data mining approach to reduce the false alarm rate of patient monitors
-risk stratification of icu patients using topic models inferred from unstructured progress notes
-predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
+high-performance detection and early prediction of septic shock for alcohol-use disorder patients
+v-type nerve agent detection using a carbon nanotube-based amperometric enzyme electrode
+chronic lymphocytic leukemia and b and t cells differ in their response to cyclic nucleotide phosphodiesterase inhibitors
 an insight into the protection of rat liver against ischemia/reperfusion injury by 2-selenium-bridged beta-cyclodextrin
-a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
+risk stratification of icu patients using topic models inferred from unstructured progress notes
+a data mining approach to reduce the false alarm rate of patient monitors
+predicting in-hospital mortality of icu patients: the physionet/computing in cardiology challenge 2012
 crystal structure of diaminopimelate epimerase from arabidopsis thaliana, an amino acid racemase critical for l-lysine biosynthesis
+a hypotensive episode predictor for intensive care based on heart rate and blood pressure time series
 the arabidopsis gras protein scl14 interacts with class ii tga transcription factors and is essential for the activation of stress-inducible promoters
-an investigation of patterns in hemodynamic data indicative of impending hypotension in intensive care
 predicting patient's trajectory of physiological data using temporal trends in similar patients: a system for near-term prognostics
+an investigation of patterns in hemodynamic data indicative of impending hypotension in intensive care
 scope and limitations of the scs-mp2 method for stacking and hydrogen bonding interactions
 a methodology for prediction of acute hypotensive episodes in icu via a risk scoring model including analysis of st-segment variations
+unbiased gene expression analysis implicates the huntingtin polyglutamine tract in extra-mitochondrial energy metabolism
 hypotension as a risk factor for acute kidney injury in icu patients
 parallel processing of ecg and blood pressure waveforms for detection of acute hypotensive episodes: a simulation study using a risk scoring model
 the effect of signal quality on six cardiac output estimators
+synthesis of 3-deaza-3-nitro-2'-deoxyadenosine
+predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
 a shape-persistent d,l-dipeptide building block for the assembly of rigidified oligopeptides
 oxidative detoxication of carcinogenic 2-nitroanisole by human, rat and rabbit cytochrome p450
-predicting acute hypotensive episodes: the 10th annual physionet/computers in cardiology challenge
 development and evaluation of predictive alerts for hemodynamic instability in icu patients
 cyclodextrin-derived mimic of glutathione peroxidase exhibiting enzymatic specificity and high catalytic efficiency
 interdepartmental audit with an anatomically realistic lung phantom
@@ -187,7 +754,14 @@ an artificial intelligence tool to predict fluid requirement in the intensive ca
 protection of mitochondrial integrity from oxidative stress by selenium-containing glutathione transferase
 introduction of a cis-prolyl mimic in position 7 of the peptide hormone oxytocin does not result in antagonistic activity
 technique for ensuring negative surgical margins during laparoscopic partial nephrectomy
+3-nitro-3-deaza-2'-deoxyadenosine as a versatile photocleavable 2'-deoxyadenosine mimic
 a library approach to the generation of bisubstrate analogue sulfotransferase inhibitors
+a synthetic receptor which uses multiple edge-face interactions to bind aromatic guests
+trh mimetics: differentiation of antiamnesic potency from antidepressant effect
+peptides constrained to type vi beta-turns. 1. evidence for an exceptionally stable intramolecular hydrogen bond
+studies on three reductases which have polycyclic aromatic hydrocarbon quinones as substrates
+dethiobiotin synthetase: the carbonylation of 7,8-diaminonanoic acid proceeds regiospecifically via the n7-carbamate
 synthesis of a sialyl lewis x mimic with fixed carboxylic acid group: chemical approach toward the elucidation of the bioactive conformation of sialyl lewis x
 evaluation of the receptor selectivity of the h3 receptor antagonists, iodophenpropit and thioperamide: an interaction with the 5-ht3 receptor revealed
 distorted antigen-presenting function of langerhans cells induced by tumor necrosis factor alpha via a mechanism that appears different from that induced by ultraviolet b radiation
+the plos one collection on machine learning in health and biomedicine: towards open code and open data

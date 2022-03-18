@@ -1,8 +1,8 @@
 # Data files
-*.csv
+#*.csv
 
 # Picture files
-*.png
+#*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

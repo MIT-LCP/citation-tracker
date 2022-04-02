@@ -222,10 +222,13 @@ class SearchResult(object):
         self.count = count
 
 
-def search_list(search_strings, email, all=False):
+def search_list(email, search_strings=None, ids=None, all=False):
     """
     Search a list of search_strings. Return a dictionary of `SearchResult`
     objects as values for the `search_strings` keys.
+
+    Use `search_strings` and `email` if based on queries.
+    Use `ids` if searching based on PMIDs.
 
     If `all` is True, return all article information, else return only the
     titles.
@@ -238,29 +241,39 @@ def search_list(search_strings, email, all=False):
     else:
         all_ids = []
 
-    for ss in search_strings:
-        # Overall results
-        results = search(ss, email)
-        ids = results['IdList']
-        sr = SearchResult(search_string=ss, results=results, paper_ids=ids,
-                          count=results['Count'])
-        # Add the results to the dictionary
-        if all:
-            all_ids[ss] = set(ids)
-        else:
-            search_results[ss] = sr
-            all_ids += ids
+    if search_strings:
+        for ss in search_strings:
+            # Overall results
+            results = search(ss, email)
+            ids = results['IdList']
+            sr = SearchResult(search_string=ss, results=results, paper_ids=ids,
+                              count=results['Count'])
+            # Add the results to the dictionary
+            if all:
+                all_ids[ss] = set(ids)
+            else:
+                search_results[ss] = sr
+                all_ids += ids
 
     if not all:
         all_ids = set(all_ids)
     if all:
-        for ss in search_strings:
-            search_results[ss] = pd.concat([get_all_info(id, email) for id in all_ids[ss]])
+        if search_strings:
+            for ss in search_strings:
+                search_results[ss] = pd.concat([get_all_info(id, email) for id in all_ids[ss]])
+        else:
+            search_results['PMID'] = pd.concat([get_all_info(id, email) for id in ids])
     else:
-        all_paper_titles = dict(zip(all_ids, [get_title(id, email) for id in all_ids]))
-        # Fill in the paper titles
-        for ss in search_strings:
-            search_results[ss].paper_titles = [all_paper_titles[id] for id in search_results[ss].paper_ids]
+        if search_strings:
+            all_paper_titles = dict(zip(all_ids, [get_title(id, email) for id in all_ids]))
+            # Fill in the paper titles
+            for ss in search_strings:
+                search_results[ss].paper_titles = [all_paper_titles[id] for id in search_results[ss].paper_ids]
+        else:
+            all_paper_titles = dict(zip(ids, [get_title(id, email) for id in ids]))
+            # Fill in the paper titles
+            for ss in search_strings:
+                search_results['PMID'].paper_titles = [all_paper_titles[id] for id in search_results['PMID'].paper_ids]
 
     return search_results
 
